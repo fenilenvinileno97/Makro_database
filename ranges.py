@@ -7,11 +7,14 @@ def is_list(obj):
         return obj
     return False
 
-def get_ranges(input_string):
+def get_ranges_list(input_list):
+    for elements in input_list:
+        get_ranges_string(elements)
+
+def get_ranges_string(input_string):
     
     if is_list(input_string) == input_string:
         input_list = input_string.replace(",", "").split()
-        return input_list
     
     for s in input_list:
         if "<" in input_list:
@@ -40,8 +43,8 @@ def get_ranges(input_string):
             return "Estimated quantity is {a:.2f} {b}".format(a = s, b = input_list[3])            
         
 
-# input_one = ["< 1/4, 500 g", "~ 1/2, 400 g", ">= 3/4, 900"]
+input_one = ["< 1/4, 500 g", "~ 1/2, 400 g", ">= 3/4, 900 g"]
 input_two = "<= 1/4, 500 g"
-input_two_list = input_two.replace(",", "").split()
 
-print(get_ranges(input_two_list))
+print(get_ranges_string(input_two))
+print(get_ranges_list(input_one))
