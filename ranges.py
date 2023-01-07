@@ -1,6 +1,13 @@
 from fractions import Fraction
 
-
+def read_data(filepath = './files/data.txt'):
+    counter = 0
+    with open(filepath, 'r', encoding = 'utf-8') as f:
+        for line in f:
+            counter += 1
+            print(line.strip())
+        return 'Total lines are: {}'.format(counter)
+    
 def is_list(obj):
     if isinstance(obj, list):
         return True

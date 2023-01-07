@@ -1,8 +1,20 @@
-#This script is made for creating a dictionary for storing data about study time spent in Coursera courses
+#how to read data from a .csv file in Python scripts?
 
-def extract(week):
-    filtered_week = week.split()
-    print(filtered_week)
+def read_data(filepath = './files/data.txt'):
+    counter = 0
+    with open(filepath, 'r', encoding = 'utf-8') as f:
+        for line in f:
+            counter += 1
+            print(line.strip())
+        return counter
+
+def more_two():
+    counter = 0
+    data = read_data(filepath = './files/data.txt')
+    if counter > 2:
+        print('Lines are more than two')
         
-extract("Getting your Python on: 1h 15 min of videos, 40 min of reading, 1 graded assignment")
+more_two()
+
+
 
