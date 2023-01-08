@@ -40,31 +40,31 @@ def get_ranges_string(input_string):
             s = float(Fraction(input_list[1])) - \
                 0.1*float(Fraction(input_list[1]))
             s *= int(input_list[2])
-            return "Estimated quantity is {a:.2f} {b}".format(a=s, b=input_list[3])
+            return "Estimated quantity is {a:.2f} {b}\n".format(a=s, b=input_list[3])
 
         elif "<=" in input_list:
             s = float(Fraction(input_list[1])) - \
                 0.05*float(Fraction(input_list[1]))
             s *= int(input_list[2])
-            return "Estimated quantity is {a:.2f} {b}".format(a=s, b=input_list[3])
+            return "Estimated quantity is {a:.2f} {b}\n".format(a=s, b=input_list[3])
 
         elif "~" in input_list:
             s = float(Fraction(input_list[1])) - \
                 0.01*float(Fraction(input_list[1]))
             s *= int(input_list[2])
-            return "Estimated quantity is {a:.2f} {b}".format(a=s, b=input_list[3])
+            return "Estimated quantity is {a:.2f} {b}\n".format(a=s, b=input_list[3])
 
         elif ">=" in input_list:
             s = float(Fraction(input_list[1])) + \
                 0.05*float(Fraction(input_list[1]))
             s *= int(input_list[2])
-            return "Estimated quantity is {a:.2f} {b}".format(a=s, b=input_list[3])
+            return "Estimated quantity is {a:.2f} {b}\n".format(a=s, b=input_list[3])
 
         elif ">" in input_list:
             s = float(Fraction(input_list[1])) + \
                 0.1*float(Fraction(input_list[1]))
             s *= int(input_list[2])
-            return "Estimated quantity is {a:.2f} {b}".format(a=s, b=input_list[3])
+            return "Estimated quantity is {a:.2f} {b}\n".format(a=s, b=input_list[3])
         
 def write_data(filepath='./files/data.txt'):
     with open(filepath, 'r', encoding = 'utf-8') as f:
@@ -74,10 +74,10 @@ def write_data(filepath='./files/data.txt'):
         for line in lines:
             if is_list(line) == True:
                 words = get_ranges_list(line)
-                file.write(words + "\n")
+                print(words)
             elif is_list(line) == line:
                 words = get_ranges_string(line)
-                file.write(words + "\n")
+                file.write(words)
 
 def run():
     data = write_data(filepath='./files/data.txt')
