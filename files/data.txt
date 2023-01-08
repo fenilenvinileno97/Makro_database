@@ -1,3 +1,1 @@
-~ 1/25, 1 kg
-['> 3/4, 300 g', '< 1/5, 50 g']
-~ 1/25, 1 kg
+Estimated quantity is 0.04 kgEstimated quantity is 0.04 kg
