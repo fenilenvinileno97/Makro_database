@@ -1,5 +1,7 @@
 from fractions import Fraction
     
+#this function defines if an object is a list, if so, returns True and if it's str, returns object
+#is_list is a breakpoint to choose between get_ranges_list() or get_ranges_string()
 def is_list(obj):
     if isinstance(obj, list):
         return True
@@ -9,11 +11,10 @@ def is_list(obj):
 
 
 def get_ranges_list(input_list):
-    counter = 0
+    
     modified_list = []
     
     for elements in input_list:
-        counter += 1
         modified_list.append(get_ranges_string(elements.replace(",", "").split()))
         
     counter = ["Container no. {}".format(x)
@@ -21,7 +22,13 @@ def get_ranges_list(input_list):
     modified_list = [(x, y) for x, y in zip(counter, modified_list)]
     modified_dict = {key: value for key, value in modified_list}
     
-    return str(modified_dict)
+    result = []
+    
+    for key, value in modified_dict.items():
+        argument = "{} : {}".format(key, value.replace(",", "").replace("\n", " "))
+        result.append(argument)
+      
+    return "; ".join(result)
 
 
 def get_ranges_string(input_string):
@@ -66,31 +73,27 @@ def get_ranges_string(input_string):
             s *= float((input_list[2]))
             return "Estimated quantity is {a:.2f} {b}\n".format(a=s, b=input_list[3])
         
-def write_data(filepath='./files/data.txt'):
-    with open(filepath, 'r', encoding = 'utf-8') as f:
-        lines = f.readlines()
+# def write_data(filepath='./files/data.txt'):
+#     with open(filepath, 'r', encoding = 'utf-8') as f:
+#         lines = f.readlines()
 
-    with open(filepath, "w", encoding = 'utf-8') as file:
-        for line in lines:
-            # if is_list(line) == True:
-            #     words = get_ranges_list(line)
-            #     file.write(words)
-            # elif is_list(line) == line:
-            #     words = get_ranges_string(line)
-            #     file.write(words)
-            words = get_ranges_string(line)
-            file.write(words)
+#     with open(filepath, "w", encoding = 'utf-8') as file:
+#         for line in lines:
+#             if is_list(line) == True:
+#                 words = get_ranges_list(line)
+#                 file.write(words)
+#             elif is_list(line) == line:
+#                 words = get_ranges_string(line)
+#                 file.write(words)
     
-    return 'Changes were done'
+#     return 'Changes were done'
 
-def run():
-    data = write_data(filepath='./files/data.txt')
-    print(data)
+# def run():
+#     data = write_data(filepath='./files/data.txt')
+#     print(data)
     
-if __name__ == '__main__':
-    run()
+# if __name__ == '__main__':
+#     run()
 
 # b = ['< 1/3, 500 g', '~ 4/5 1.5 L', '>= 3/4, 250 g']
-# print(is_list(b))
-# for key, value in get_ranges_list(b).items():
-#     print("{} : {}".format(key, value))
+# print(get_ranges_string(b))
