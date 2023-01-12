@@ -1,10 +1,8 @@
 
-def is_list(obj):
-    if isinstance(obj, list):
-        return True
-    elif isinstance(obj, str):
-        return obj
-    return False
+def adds(string):
+    return str(string.split()) + "\n"
+        
+    
 
 
 def write_data(filepath='./files/data.txt'):
@@ -12,7 +10,9 @@ def write_data(filepath='./files/data.txt'):
         lines = f.readlines()
 
     with open(filepath, "w", encoding = 'utf-8') as file:
-        file.writelines(lines)
+        for line in lines:
+            modify_line = adds(line)
+            file.write(modify_line)
             
     return 'Changes are done'
 
