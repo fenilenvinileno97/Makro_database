@@ -34,48 +34,54 @@ def get_ranges_list(input_list):
 
     return "; ".join(result)
 
+try:
+    def get_ranges_string(input_string):
+        
+        if is_list(input_string) == input_string:
+            input_list = input_string.replace(",", "").split()
 
-def get_ranges_string(input_string):
-    
-    if is_list(input_string) == input_string:
-        input_list = input_string.replace(",", "").split()
+        elif is_list(input_string) == True:
+            input_list = []
+            for key in input_string:
+                input_list.append(key)
 
-    elif is_list(input_string) == True:
-        input_list = []
-        for key in input_string:
-            input_list.append(key)
+        for s in input_list:
 
-    for s in input_list:
+            if "<" in input_list:
+                s = float(Fraction(input_list[1])) - \
+                    0.1*float(Fraction(input_list[1]))
+                s *= float((input_list[2]))
+                return "Estimated quantity is {a:.2f} {b}\n".format(a=s, b=input_list[3])
 
-        if "<" in input_list:
-            s = float(Fraction(input_list[1])) - \
-                0.1*float(Fraction(input_list[1]))
-            s *= float((input_list[2]))
-            return "Estimated quantity is {a:.2f} {b}\n".format(a=s, b=input_list[3])
+            elif "<=" in input_list:
+                s = float(Fraction(input_list[1])) - \
+                    0.05*float(Fraction(input_list[1]))
+                s *= float((input_list[2]))
+                return "Estimated quantity is {a:.2f} {b}\n".format(a=s, b=input_list[3])
 
-        elif "<=" in input_list:
-            s = float(Fraction(input_list[1])) - \
-                0.05*float(Fraction(input_list[1]))
-            s *= float((input_list[2]))
-            return "Estimated quantity is {a:.2f} {b}\n".format(a=s, b=input_list[3])
+            elif "~" in input_list:
+                s = float(Fraction(input_list[1])) - \
+                    0.01*float(Fraction(input_list[1]))
+                s *= float((input_list[2]))
+                return "Estimated quantity is {a:.2f} {b}\n".format(a=s, b=input_list[3])
 
-        elif "~" in input_list:
-            s = float(Fraction(input_list[1])) - \
-                0.01*float(Fraction(input_list[1]))
-            s *= float((input_list[2]))
-            return "Estimated quantity is {a:.2f} {b}\n".format(a=s, b=input_list[3])
+            elif ">=" in input_list:
+                s = float(Fraction(input_list[1])) + \
+                    0.05*float(Fraction(input_list[1]))
+                s *= float((input_list[2]))
+                return "Estimated quantity is {a:.2f} {b}\n".format(a=s, b=input_list[3])
 
-        elif ">=" in input_list:
-            s = float(Fraction(input_list[1])) + \
-                0.05*float(Fraction(input_list[1]))
-            s *= float((input_list[2]))
-            return "Estimated quantity is {a:.2f} {b}\n".format(a=s, b=input_list[3])
-
-        elif ">" in input_list:
-            s = float(Fraction(input_list[1])) + \
-                0.1*float(Fraction(input_list[1]))
-            s *= float((input_list[2]))
-            return "Estimated quantity is {a:.2f} {b}\n".format(a=s, b=input_list[3])
+            elif ">" in input_list:
+                s = float(Fraction(input_list[1])) + \
+                    0.1*float(Fraction(input_list[1]))
+                s *= float((input_list[2]))
+                return "Estimated quantity is {a:.2f} {b}\n".format(a=s, b=input_list[3])
+            
+            else:
+                return input_list
+            
+except TypeError:
+    print('Enter a valid input')
         
 def get_ranges_use(input_obj):
     if is_list(input_obj) == True:
@@ -86,7 +92,9 @@ def get_ranges_use(input_obj):
 
     elif is_list(input_obj) == input_obj:
         return get_ranges_string(input_obj)
-
+    
+    else:
+        return input_obj
 
 def write_data(filepath='./files/data.txt'):
     with open(filepath, 'r', encoding='utf-8') as f:
