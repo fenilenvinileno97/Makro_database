@@ -1,11 +1,21 @@
 #!/usr/bin/env python3
-import re
 from fractions import Fraction
+import re
+
+def fix_function(input_string):
+    regexp = r"[<>=~][0-9]"
+    match = re.search(regexp, input_string)
+    if match:
+        first_char = match.group()[0]
+        input_string = input_string.replace(first_char, first_char + " ")
+        return input_string
+    else:
+        return input_string
 
 try:
     def get_ranges_string(input_string):
         
-        input_list = input_string.replace(",", "").split()
+        input_list = input_string.replace(";", "").split()
 
         for s in input_list:
 
@@ -51,7 +61,7 @@ def open_data(filepath):
     
     with open(filepath, 'w', encoding = 'utf-8') as w:
         for row in lines:
-            transformed_line = get_ranges_string(row)
+            transformed_line = get_ranges_string(fix_function(row))
             w.write(transformed_line)
         print("Written file")
         
