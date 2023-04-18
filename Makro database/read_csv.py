@@ -15,14 +15,22 @@ def fix_function(input_string):
 
 header = ['Local code', 'Reagent name', 'CAS number', 'Chemical category', 'Location', 'Observation', 'Available quantity', 'Total quantity', 'Container size']
 
-def read_csv(filepath):
+def read_csv(filepath, writepath):
     
     with open(filepath, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f, delimiter = ',', fieldnames = header)
         next(reader)
-        for row in reader:
-            # print((row['Available quantity']))
-            print(fix_function(row['Available quantity']))
+        
+        transformed_lines = [row for row in reader]
+        for row in transformed_lines:
+            row['Available quantity'] = fix_function(row['Available quantity']).strip()
 
+    with open(writepath, 'w', encoding = 'utf-8') as out_write:
+        writer = csv.DictWriter(out_write, delimiter = ',', fieldnames=header)
+        
+        writer.writeheader()
+        writer.writerows(transformed_lines)
+        print("new.csv file created/written")
 
-read_csv("./files/example.csv")
+read_csv("./files/reagent_database_2023.csv", "./files/new.csv")
+

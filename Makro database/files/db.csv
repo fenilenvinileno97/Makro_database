@@ -1,0 +1,999 @@
+local_code,reagent_name,cas_number,functional_group,location,observation,av_quantity,tot_quantity,size
+A-1,ACIDO-2-CLOROBENZOICO,118-91-2,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 1/3; 1 kg,1 kg,Muy grande
+A-10,"ACIDO-3,5-DINITROBENZOICO",99-343,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,> 3/4; 100 g,100 g,Grande
+A-11,ACIDO-1-NAFTOICO,86-55-5,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,22 g,25 g,Medio
+A-12,ACIDO 5-SULFOSALICILICO DIHIDRATO,5965-83-3,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~4/5; 1 kg,1 kg,Muy grande
+A-13,ACIDO 4-FORMILBENZOICO,619-66-9,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,6 g,10 g,Pequeño
+A-14,ACIDO-4-METIL-3-NITROBENZOICO,96-98-0,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 1/2; 100 g,100 g,Mediano
+A-15,ACIDO-P-TOLUICO,99-94-5,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,> 1/3; 500 g,500 g,Grande
+A-18,ACIDO-L-TARTARICO,87-69-4,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,> 2/3; 1 kg,1 kg,Muy grande
+A-19,ACIDO CITRICO,77-92-9,Ácidos orgánicos,ESTANTE MADERA GRANDE,Envasado en frascos de compota.,< 1/10; 50 g,50 g,Mediano
+A-19,ACIDO CITRICO,77-92-9,Ácidos orgánicos,ESTANTE MADERA GRANDE,Envasado en frascos de compota.,< 1/2; 1 lb,1 lb,Mediano
+A-2,ACIDO TIOGLICOLICO,68-11-1,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,80 mL,100 mL,Mediano
+A-20,ACIDO ISONICOTINICO HIDRAZIDA,58481-01-9,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,> 1/2; 100 g,100 g,Medio-grande
+A-21,ACIDO-3-NITROBENZOICO,121-92-6,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,220 g,250 g,Medio-grande
+A-22,ACIDO-2-AMINOTEREFTALICO,10312-55-7,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 1/4; 10 g,10 g,Pequeño
+A-23,ACIDO QUINALDICO,93-10-7,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,< 1/10; 25 g,25 g,Mediano
+A-24,ACIDO GLICOLICO,79-14-1,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 1/2; 100 g,100 g,Mediano
+A-25,ACIDO LEVULINICO,123-76-2,Ácidos orgánicos,ESTANTE MADERA GRANDE,"Tener cuidado, el frasco está agrietado y se está filtrando
+líquido hacia afuera.
+",NULL,100 g,Mediano
+A-26,ACIDO 4-NITROBENZOICO,62-33-7,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,> 1/2; 100 g,100 g,Mediano
+A-27,ACIDO 4-AMINO-3-NITROBENZOICO,1588-83-6,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 1/2; 10 g,10 g,Mediano
+A-28,ACIDO-6-AMINO-2-NAFTOICO,116668-47-4,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,<= 1/4; 1 g,1 g,Muy pequeño
+A-29,ACIDO PALMITICO,57-10-3,Ácidos orgánicos,ESTANTE MADERA GRANDE,Reenvasado en un frasco de conservas,~ 1/10; 70 g,70 g,Mediano
+A-3,ACIDO-3-INDOLBUTIRICO,133-32-4,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,66 g,100 g,Grande
+A-30,ACIDO LAURICO,143-07-7,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,<= 1/3; 100 g,100 g,Mediano
+A-31,ACIDO OLEICO,112-80-1,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 2/3; 1 L,1 L,Grande
+A-31,ACIDO OLEICO,112-80-1,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 1/1; 1 L,1 L,Muy grande
+A-32,ACIDO FORMICO,64-18-6,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,<= 1/10; 1 L,1 L,Muy grande
+A-33,ACIDO PROPIONICO,79-09-4,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,< 1/10; 500 mL,500 mL,Grande
+A-34,ACIDO CICLOHEXANOCARBOXILICO,98-89-5,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 2/3; 500 mL,500 mL,Medio-grande
+A-35,ACIDO TRICLOROACETICO,76-03-9,Ácidos orgánicos,ESTANTE MADERA GRANDE,"El frasco #1 corresponde a una disolución, el frasco #2 corresponde a la sustancia pura.",~ 3/4; 1 kg,1 kg,Muy grande
+A-35,ACIDO TRICLOROACETICO,76-03-9,Ácidos orgánicos,ESTANTE MADERA GRANDE,"El frasco #1 corresponde a una disolución, el frasco #2 corresponde a la sustancia pura.",40 mL,50 mL,Mediano
+A-36,ACIDO MALICO,617-48-1,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 1/3; 1 kg,1 kg,Muy grande
+A-39,ACIDO BENZOICO,65-85-0,Ácidos orgánicos,ESTANTE MADERA GRANDE,Reenvasado en frasco de muestra coprológica,>= 1/2; 50 g,50 g,Mediano
+A-39,ACIDO BENZOICO,65-85-0,Ácidos orgánicos,ESTANTE MADERA GRANDE,Reenvasado en frasco de muestra coprológica,~ 1/3; 5 g,5 g,Pequeño-medio
+A-4,ACIDO OXALICO,144-62-7,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 2/3; 700 g,700 g,Grande
+A-40,ACIDO TRIFLUOROMETANSULFONICO,1493-13-6,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 1/3; 25 mL,25 mL,Pequeño-medio
+A-41,ACIDO CIANOACETICO,372-09-8,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 1/3; 50 g,50 g,Mediano
+A-42,ACIDO (2-BROMOMETIL)BENZOICO,7115-89-1,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 1/2; 10 g,10 g,Pequeño
+A-43,ÀCIDO ASCORBICO,50-81-7,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 1/2; 500 g,500 g,Grande
+A-43,ÀCIDO ASCORBICO,50-81-7,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,< 1/4; 100 g,100 g,Mediano
+A-44,EOSINA AZUL,548-24-3,Ácidos orgánicos,ESTANTE MADERA GRANDE,No tiene etiquetado,<= 1/4; 50 g,50 g,Pequeño
+A-45,L-FENILALANINA,63-91-2,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,< 1/2; 100 g,100 g,Mediano
+A-46,ACIDO METACRILICO,79-41-4,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,> 1/3; 500 g,500 g,Muy grande
+A-47,ACIDO SALICILICO,69-72-7,Ácidos orgánicos,ESTANTE MADERA GRANDE,Es una bolsa plástica abierta de Legaquímicos.,~1/2; 1 lb,1 lb,Mediano
+A-48,ACIDO TANICO,1401-55-4,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~2/3; 250 g,250 g,Grande
+A-49,"ACIDO NAFTALENO-1,4-DICARBOXILICO",605-70-9,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,> 1/2; 25 g,25 g,Pequeño-medio
+A-5,ACIDO SULFANILICO,121-57-3,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,> 3/4; 100 g,100 g,Mediano
+A-50,ACIDO 4-HIDROXIBENZOICO,99-96-7,Ácidos orgánicos,ESTANTE MADERA GRANDE,Reactivo nuevo,250 g,250 g,Grande
+A-51,"ACIDO 2,2-BIS(HIDROXIMETIL)PROPIONICO",07-03-67,Ácidos orgánicos,ESTANTE METALICO CASILLERO,NULL,0 g,250 g,Grande
+A-6,ACIDO-4-BROMOBENZOICO,586-76-5,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 1/3; 25 g,25 g,Mediano
+A-6,ACIDO-4-BROMOBENZOICO,586-76-5,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 1/3; 25 g,25 g,Mediano
+A-7,"ACIDO-1,3,5-BENCENTRICARBOXILICO",554-95-0,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~1/10; 5 g,5 g,Pequeño
+A-7,"ACIDO-1,3,5-BENCENTRICARBOXILICO",554-95-0,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~1/3; 100 g,100 g,Medio-grande
+A-8,ACIDO-4-TOLUENSULFONICO,6192-52-5,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,100 g,100 g,Mediano
+A-9,ACIDO TEREFTALICO,100-21-0,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 3/4; 25 g,25 g,Pequeño
+A-9,ACIDO TEREFTALICO,100-21-0,Ácidos orgánicos,ESTANTE MADERA GRANDE,NULL,~ 1/4; 100 g,100 g,Mediano
+Ag-01,PLATA COLOIDAL,87370-84-1,Compuestos de plata,ESTANTE MADERA GRANDE,NULL,150 g,150 g,Mediano
+Ag-02,SULFATO DE PLATA,10294-26-5,Compuestos de plata,ESTANTE MADERA GRANDE,NULL,~1/3; 100 g,100 g,Mediano
+Ag-03,NITRATO DE PLATA,7761-88-8,Compuestos de plata,ESTANTE MADERA GRANDE,NULL,~1/2; 250 g,250 g,Grande
+Ag-04,NITRITO DE PLATA,7783-99-5,Compuestos de plata,ESTANTE METALICO BAJO LLAVE,El frasco está dentro de una bolsa sellable.,<1/3; 10 g,10 g,Pequeño
+AI-1,ACIDO ACETICO GLACIAL,64-19-7,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,NULL,2.5 L,2.5 L,Muy grande
+AI-1,ACIDO ACETICO GLACIAL,64-19-7,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,NULL,2.5 L,2.5 L,Muy grande
+AI-1,ACIDO ACETICO GLACIAL,64-19-7,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,NULL,2.5 L,2.5 L,Gigante
+AI-1,ACIDO ACETICO GLACIAL,64-19-7,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,NULL,1 L,1 L,Grande
+AI-10,ACIDO SULFURICO 98%,7664-93-9,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,NULL,2.5 L,2.5 L,Muy grande
+AI-10,ACIDO SULFURICO 98%,7664-93-9,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,NULL,1 L,1 L,Grande
+AI-2,ACIDO NITRICO 65%,7697-37-2,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,NULL,2.5 L,2.5 L,Muy grande
+AI-3,ACIDO BROMHIDRICO 48%,10035-10-6,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,El frasco no. 1 tiene las etiquetas deterioradas.,1 L,1 L,Grande
+AI-3,ACIDO BROMHIDRICO 48%,10035-10-6,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,El frasco no. 1 tiene las etiquetas deterioradas.,1 L,1 L,Grande
+AI-4,ACIDO TRIFLUOROACETICO,76-05-1,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,NULL,2.5 L,2.5 L,Gigante
+AI-5,ACIDO CLORHIDRICO 37%,7647-01-0,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,NULL,2.5 L,2.5 L,Gigante
+AI-5,ACIDO CLORHIDRICO 37%,7647-01-0,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,NULL,2.5 L,2.5 L,Gigante
+AI-5,ACIDO CLORHIDRICO 37%,7647-01-0,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,NULL,2.5 L,2.5 L,Gigante
+AI-5,ACIDO CLORHIDRICO 37%,7647-01-0,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,NULL,1 L,1 L,Muy grande
+AI-6,ACIDO FOSFORICO,7664-38-2,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,NULL,2.5 L,2.5 L,Gigante
+AI-7,ACIDO MERCAPTOACETICO,68-11-1*,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,El frasco viene dentro de una bolsa para mayor seguridad.,500 g,500 g,Grande
+AI-8,ACIDO FLUORHIDRICO,7664-39-3,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,NULL,1 L,1 L,Grande
+AI-9,ACIDO PERCLORICO,7601-90-3,Ácidos inorgánicos,GAVETA BAJO ROTAEVAPORADOR,NULL,250 mL,250 mL,Medio-grande
+Al-01,ALUMINIO EN VIRUTAS,7429-90-5,Compuestos de alumino,ESTANTE MADERA GRANDE,NULL,300 g,300 g,Grande
+Al-02,CLORURO DE ALUMINIO(III),7446-70-0,Compuestos de alumino,ESTANTE MADERA GRANDE,NULL,~1/3; 500 g,500 g,Grande
+Al-11,ACIDO TETRAFLUOROBORICO 48%,16872-11,Compuestos de alumino,GAVETA BAJO ROTAEVAPORADOR,El frasco viene dentro de una bolsa para mayor seguridad.,500 g,500 g,Grande
+B-1,P-AMINOFENOL,123-30-8,Aminas,ESTANTE MADERA PEQUEÑO,NULL,>3/4;  250 g,250 g,Grande
+B-1,P-AMINOFENOL,123-30-8,Aminas,ESTANTE MADERA PEQUEÑO,NULL,78 g,100 g,Mediano
+B-10,DIFENILAMINA,122-39-4,Aminas,ESTANTE METALICO,NULL,>=2/3; 100 g,100 g,Medio-grande
+B-100,TERTBUTILAMINA,75-64-9,Aminas,ESTANTE METALICO,NULL,>2/3; 500 mL,500 mL,Grande
+B-101,N-METILANILINA,"	100-61-8",Aminas,ESTANTE METALICO,NULL,1 L,1 L,Muy grande
+B-11,O-TOLUIDINA,95-53-4,Aminas,ESTANTE METALICO,NULL,<1/2; 100 g,100 g,Medio-grande
+B-11,O-TOLUIDINA,95-53-4,Aminas,ESTANTE METALICO,NULL,500 mL,500 mL,Grande
+B-12,P-BROMOACETANILIDA,103-88-8,Aminas,ESTANTE METALICO,Empacado en un frasco ámbar sin etiquetas.,>1/2; 25 g,25 g,Pequeño
+B-13,P-AMINOANTIPIRINA,83-07-8,Aminas,ESTANTE METALICO,NULL,<1/25; 50 g,50 g,Mediano
+B-14,"5,5-DIFENIL-2,4-IMIDAZOLIDINEDIONA",57-41-0,Aminas,ESTANTE METALICO,NULL,>4/5; 25 g,25 g,Mediano
+B-15,2-YODOANILINA,615-43-0,Aminas,ESTANTE METALICO,NULL,25 g,25 g,Pequeño-medio
+B-16,CLOROAMINA TRIHIDRATADA,7080-50-4,Aminas,ESTANTE METALICO,Empacado en un frasco ámbar sin etiquetas.,<1/3; 150 g,150 g,Grande
+B-17,4-BROMOANILINA,106-40-1,Aminas,ESTANTE METALICO,NULL,~1/2; 100 g,100 g,Mediano
+B-18,"2,6-DIBROMOPIRIDINA",626-05-1,Aminas,ESTANTE METALICO,NULL,<1/2; 100 g,100 g,Grande
+B-19,"1,8-DIAMINONAFTALENO",479-27-6,Aminas,ESTANTE METALICO,NULL,~2/3; 5 g,5 g,Pequeño
+B-19,"1,8-DIAMINONAFTALENO",479-27-6,Aminas,ESTANTE METALICO,NULL,~1/2; 50 g,50 g,Mediano
+B-2,IMIDAZOL,288-32-4,Aminas,ESTANTE MADERA PEQUEÑO,NULL,0.75 kg,1 kg,Grande
+B-2,IMIDAZOL,288-32-4,Aminas,ESTANTE MADERA PEQUEÑO,NULL,~1/2; 100 g,100 g,Grande
+B-2,IMIDAZOL,288-32-4,Aminas,ESTANTE MADERA PEQUEÑO,NULL,>2/3; 100 g,100 g,Grande
+B-2,IMIDAZOL,288-32-4,Aminas,ESTANTE MADERA PEQUEÑO,NULL,~2/3; 100 g,100 g,Grande
+B-21,TRIS(NONAFLUOROBUTIL)AMINO,93792-84-8,Aminas,ESTANTE METALICO,NULL,10 mL,10 mL,Pequeño
+B-22,DIMETILGLIOXIMA,95-45-4,Aminas,ESTANTE METALICO,NULL,100 g,100 g,Mediano
+B-23,"N-CETIL- N,N,N-TRIMETILAMONIO BROMURO (CTAB)",57-09-0 ,Aminas,ESTANTE METALICO,NULL,~1/5; 100 g,100 g,Mediano
+B-24,P-FENITIDINA,156-43-4,Aminas,ESTANTE METALICO,NULL,>= 3/4; 500 mL,500 mL,Grande
+B-25,"1,3-DIFENILGUANIDINA",1002-06-7,Aminas,ESTANTE METALICO,Etiquetas deterioradas.,>3/4; 100 g,100 g,Mediano
+B-27,"DIHIDROCLORURO 1,6-HEXANODIAMINA",6055-52-3,Aminas,ESTANTE METALICO,NULL,~2/3; 100 g,100 g,Grande
+B-28,1-NAFTILAMINA,134-32-7,Aminas,ESTANTE METALICO,NULL,~3/4; 100 g,100 g,Mediano
+B-29,DIHIDROPIRIDINA,3337-17-5,Aminas,ESTANTE METALICO,NULL,~1/2; 25 g,25 g,Pequeño-medio
+B-3,2-CLOROANILINA,95-51-2,Aminas,ESTANTE MADERA PEQUEÑO,NULL,50 g,50 g,Pequeño-medio
+B-3,2-CLOROANILINA,95-51-2,Aminas,ESTANTE MADERA PEQUEÑO,NULL,10 g,25 g,Pequeño
+B-30,CALCEINA,1461-15-0,Aminas,ESTANTE METALICO,NULL,~1/5; 1 g,1 g,Pequeño-medio
+B-31,O-ANISIDINA,90-04-0,Aminas,ESTANTE METALICO,La etiqueta está muy vieja.,100 g,100 g,Mediano
+B-32,MORFOLINA,110-91-8,Aminas,ESTANTE METALICO,Envasado en un frasco ámbar sin etiquetas oficiales.,>= 1/4; 150 g,150 g,Mediano
+B-33,"4,4'-DIAMINODIFENILSULFONA",80-08-0,Aminas,ESTANTE METALICO,NULL,~2/3; 25 g,25 g,Mediano
+B-34,2-BROMOPIRIDINA,109-04-6,Aminas,ESTANTE METALICO,NULL,<=1/2; 100 g,100 g,Medio-grande
+B-35,TEOFILINA ANHIDRA,58-55-9,Aminas,ESTANTE METALICO,NULL,~1/2; 50 g,50 g,Mediano
+B-36,2-NITROANILINA,88-74-4,Aminas,ESTANTE METALICO,NULL,<= 1/2; 1 kg,1 kg,Gigante
+B-37,P-ANISIDINA,104-94-4,Aminas,ESTANTE METALICO,NULL,>= 1/2; 100 g,100 g,Grande
+B-38,N-ETILDIISOPROPILAMINA,7087-68-5,Aminas,ESTANTE METALICO,Datos de nombre y cantidad de reactivo no se aprecian bien en la etiqueta.,>= 3/4; 1 L,1 L,Muy grande
+B-39,P-TOLUIDINA,106-49-0,Aminas,ESTANTE METALICO,NULL,>2/3; 100 g,100 g,Grande
+B-4,3-BROMOPIRIDINA,626-55-1,Aminas,ESTANTE METALICO,NULL,~1/3; 100 g,100 g,Mediano
+B-40,PIPERAZINA HEXAHIDRATO,142-63-2,Aminas,ESTANTE METALICO,"Frasco ámbar sin etiquetas, manifiesta ser del 29/1/92, muy viejo.",<=1/3; 50 g,50 g,Mediano
+B-41,P-DIMETILAMINOAZOBENCENO,60-11-7,Aminas,ESTANTE METALICO,NULL,100 g,100 g,Mediano
+B-43,N-METILPIPERAZINA,109-01-3,Aminas,ESTANTE METALICO,Envasado en un frasco ámbar sin etiquetas oficiales.,~1/6; 50 mL,50 mL,Mediano
+B-44,ANILINA,62-53-3,Aminas,ESTANTE METALICO,NULL,~2/3; 1 L,1 L,Muy grande
+B-45,N-BUTILANILINA,100-61-8,Aminas,ESTANTE METALICO,NULL,>= 3/4; 500 mL,500 mL,Grande
+B-47,3-CLOROANILINA,108-42-9,Aminas,ESTANTE METALICO,Está empacado en un frasco ámbar con etiquetas viejas.,100 mL,100 mL,Mediano
+B-48,N-(1-NAFTIL)-ETILENDIAMINA DICLORHIDRATO,1465-25-4,Aminas,ESTANTE METALICO,NULL,>2/3; 25 g,25 g,Mediano
+B-49,PIRIDINA,85404-20-2,Aminas,ESTANTE METALICO,NULL,500 mL,500 mL,Grande
+B-49,PIRIDINA,85404-20-2,Aminas,ESTANTE METALICO,NULL,1 L,1 L,Muy grande
+B-49,PIRIDINA,85404-20-2,Aminas,ESTANTE METALICO,NULL,>5/6; 500 mL,500 mL,Grande
+B-49,PIRIDINA,85404-20-2,Aminas,ESTANTE METALICO,NULL,<1/6; 500 mL,500 mL,Grande
+B-49,PIRIDINA,85404-20-2,Aminas,ESTANTE METALICO,NULL,<1/15; 500 mL,500 mL,Grande
+B-49,PIRIDINA,85404-20-2,Aminas,ESTANTE METALICO,NULL,<1/20; 500 mL,500 mL,Grande
+B-49,PIRIDINA,85404-20-2,Aminas,ESTANTE METALICO,NULL,500 mL,500 mL,Grande
+B-5,4-NITROANILINA,100-01-6,Aminas,ESTANTE METALICO,NULL,<= 1/3; 50 g,50 g,Mediano
+B-50,M-ANISIDINA,536-90-3,Aminas,ESTANTE METALICO,El frasco viene dentro de una bolsa plástica.,100 mL,100 mL,Mediano
+B-51,2-PICOLINA,109-06-8,Aminas,ESTANTE METALICO,NULL,1 L,1 L,Muy grande
+B-52,3-PICOLINA,108-99-6,Aminas,ESTANTE METALICO,NULL,1 L,1 L,Muy grande
+B-53,PIRROL,109-97-7,Aminas,ESTANTE METALICO,NULL,>1/2; 250 mL,250 mL,Mediano
+B-53,PIRROL,109-97-7,Aminas,ESTANTE METALICO,NULL,>1/2; 100 mL,100 mL,Mediano
+B-55,1-BENCIL-4-PIPERIDINONA,3612-20-2,Aminas,ESTANTE METALICO,NULL,50 mL,50 mL,Mediano
+B-56,BENCILAMINA,100-96-9,Aminas,ESTANTE METALICO,Empacado en un frasco ámbar con etiqueta vieja.,~1/2; 50 mL,50 mL,Mediano
+B-57,ETILENDIAMONIO DICLORURO,333-18-6,Aminas,ESTANTE METALICO,NULL,>1/2; 250 g,250 g,Grande
+B-58,MONOETANOLAMINA,141-43-5,Aminas,ESTANTE METALICO,NULL,>3/4; 950 mL,950 mL,Muy grande
+B-59,HIDRAZIDA BENZOICA,613-94-5,Aminas,ESTANTE METALICO,NULL,~1/2; 25 g,25 g,Mediano
+B-6,BENCIDINA,92-87-5,Aminas,ESTANTE METALICO,No tiene etiquetas oficiales.,>= 2/3; 100 g,100 g,Medio-grande
+B-6,BENCIDINA,92-87-5,Aminas,ESTANTE METALICO,No tiene etiquetas oficiales.,>= 3/4; 100 g,100 g,Medio-grande
+B-60,YODURO DE TETRABUTILAMONIO,311-28-4,Aminas,ESTANTE METALICO,NULL,~1/2; 100 g,100 g,Medio-grande
+B-61,N-ETILENDIISOPROPILAMINA,7087-68-5*,Aminas,ESTANTE METALICO,NULL,<1/2; 250 mL,250 mL,Medio-grande
+B-62,PIPERIDINA,110-89-4,Aminas,ESTANTE METALICO,NULL,0 mL,500 mL,Grande 
+B-63,3-BROMOANILINA,591-19-5,Aminas,ESTANTE METALICO,NULL,~1/3; 25 g,25 g,Pequeño-medio
+B-63,3-BROMOANILINA,591-19-5,Aminas,ESTANTE METALICO,NULL,~1/3; 25 g,25 g,Pequeño-medio
+B-64,TRIETANOLAMINA,102-71-6,Aminas,ESTANTE METALICO,Etiqueta deteriorada.,>1/2; 1 L,1 L,Grande
+B-65,N-ETILPIPERIDINA,766-09-6,Aminas,ESTANTE METALICO,Etiqueta deteriorada.,<1/4; 50 mL,50 mL,Mediano
+B-66,O-TOLIDINA HIDROCLORURO,7563-59-9,Aminas,ESTANTE METALICO,"No se aprecia el nombre del compuesto con claridad, la etiqueta está un poco dañada.",>=1/2; 100 g,100 g,Mediano
+B-67,"4-NITRO-1,2-FENILENDIAMINA",99-56-9,Aminas,ESTANTE METALICO,NULL,<= 2/3; 100 g,100 g,Medio-grande
+B-68,"2,5-DIBROMOPIRIDINA",624-28-2,Aminas,ESTANTE METALICO,NULL,<1/2; 10 g,10 g,Muy pequeño
+B-69,"2,4-DICLOROANILINA",554-00-7,Aminas,ESTANTE METALICO,NULL,<1/5; 5 g,5 g,Muy pequeño
+B-7,HEXAMETILENDIAMINA,124-09-4,Aminas,ESTANTE METALICO,NULL,~3/4; 1 kg,1 kg,Gigante
+B-71,AMONIACO,7664-41-7,Aminas,ESTANTE METALICO,Botella sin etiquetas oficiales.,<1/6; 2.5 L,2.5 L,Gigante
+B-72,N-ACETILGLICINA,543-24-8,Aminas,ESTANTE METALICO,NULL,500 g,500 g,Grande 
+B-73,HIDROXIDO DE AMONIO INDUSTRIAL ,1336-21-6,Aminas,ESTANTE METALICO,NULL,>= 1/2; 2.5 L,2.5 L,Gigante
+B-74,"N,N,N’,N’-TETRAMETILETILEDIAMINA",110-18-9,Aminas,ESTANTE METALICO,NULL,> 1/2; 500 mL,500 mL,Grande
+B-75,2-AMINOACETOFENONA,5468-37-1 ,Aminas,ESTANTE METALICO,NULL,10 g,10 g,Pequeño
+B-76,4-CLOROANILINA,106-47-8,Aminas,ESTANTE METALICO,NULL,~1/2; 100 g,100 g,Mediano
+B-77,1-NAFTILAMINA,134-32-7*,Aminas,ESTANTE METALICO,Etiquetas deterioradas.,~1/4; 50 g,50 g,Pequeño-medio
+B-77,1-NAFTILAMINA,134-32-7*,Aminas,ESTANTE METALICO,Etiquetas deterioradas.,100 g,100 g,Grande
+B-78,CLORURO DE HIDROXILAMONIO,01-11-70,Aminas,ESTANTE METALICO,NULL,<= 1/3; 250 g,250 g,Grande
+B-78,CLORURO DE HIDROXILAMONIO,01-11-70,Aminas,ESTANTE METALICO,NULL,250 g,250 g,Medio-grande
+B-79,DIHIDROCLORURO DE HIDRACINA,5341-61-7,Aminas,ESTANTE METALICO,NULL,~1/3; 100 g,100 g,Medio-grande
+B-8,"N,N-DIMETIL-1,4-FENILENDIAMINA",536-46-9,Aminas,ESTANTE METALICO,NULL,>3/4; 100 g,100 g,Mediano
+B-8,"N,N-DIMETIL-1,4-FENILENDIAMINA",536-46-9,Aminas,ESTANTE METALICO,NULL,<= 1/2; 100 g,100 g,Mediano
+B-80,SULFATO DE HIDROXILAMINA,10039-54-0,Aminas,ESTANTE METALICO,NULL,500 g,500 g,Grande
+B-81,TEOBROMINA,83-67-0,Aminas,ESTANTE METALICO,NULL,~1/2; 25 g,25 g,Pequeño-medio
+B-82,"5-AMINO-2,3-DIHIDRO-1,4-FTAL-AZINADIONA (LUMINOL)",521-31-3,Aminas,ESTANTE METALICO,NULL,0 g,1 g,Pequeño
+B-82,"5-AMINO-2,3-DIHIDRO-1,4-FTAL-AZINADIONA (LUMINOL)",521-31-3,Aminas,ESTANTE METALICO,NULL,<= 1/4; 5 g,5 g,Pequeño
+B-82,"5-AMINO-2,3-DIHIDRO-1,4-FTAL-AZINADIONA (LUMINOL)",521-31-3,Aminas,ESTANTE METALICO,NULL,<1/6; 1 g,1 g,Pequeño
+B-84,"1,8-BIS(DIMETILAMINO)NAFTALENO (ESPONJA DE PROTONES)",20734-58-1,Aminas,ESTANTE METALICO,NULL,<= 1/4; 10 g,10 g,Mediano
+B-85,RODAMINA 6G,989-38-8,Aminas,ESTANTE METALICO,NULL,<1/4; 2 g,2 g,Pequeño-medio
+B-86,CLORURO DE DIMETILAMONIO,506-59-2,Aminas,ESTANTE METALICO,NULL,~3/4; 1 kg,1 kg,Muy grande
+B-87,HEXAMETILENTETRAMINA,100-97-0,Aminas,ESTANTE METALICO,NULL,~2/3; 500 g,500 g,Grande
+B-87,HEXAMETILENTETRAMINA,100-97-0,Aminas,ESTANTE METALICO,NULL,>2/3; 500 g,500 g,Grande
+B-88,2-(ETILAMINO)ETANOL,110-73-6,Aminas,ESTANTE METALICO,NULL,250 mL,250 mL,Medio-grande
+B-89,"N,N-DIMETILANILINA",121-69-7,Aminas,ESTANTE METALICO,Envasado en frasco ámbar sin etiquetas.,>1/3; 80 mL,80 mL,Mediano
+B-9,"1,4-FENILENDIAMINA",106-50-3,Aminas,ESTANTE METALICO,NULL,~1/2; 100 g,100 g,Mediano
+B-90,PENTAMETILDIETILENTRIAMINA,3030-47-5,Aminas,ESTANTE METALICO BAJO LLAVE,NULL,>= 1/2; 250 mL,250 mL,Grande
+B-90,PENTAMETILDIETILENTRIAMINA,3030-47-5,Aminas,ESTANTE METALICO BAJO LLAVE,NULL,>= 1/2; 250 mL,250 mL,Grande
+B-91,AZUL DE TOLUIDINA,92-31-9,Aminas,ESTANTE METALICO,NULL,~2/3; 25 g,25 g,Mediano
+B-92,"1,4-DIAZABICICLO[2.2.2]OCTANO",280-57-9,Aminas,DESECADOR DE VIDRIO,NULL,>= 1/2; 100 g,100 g,Medio-grande
+B-92,"1,4-DIAZABICICLO[2.2.2]OCTANO",280-57-9,Aminas,DESECADOR DE VIDRIO,NULL,>= 1/2; 100 g,100 g,Medio-grande
+B-93,"2,3,5,6-TETRAMETILPIRAZINA",1124-11-4,Aminas,ESTANTE METALICO,NULL,~1/3; 25 g,25 g,Mediano
+B-93,"2,3,5,6-TETRAMETILPIRAZINA",1124-11-4,Aminas,ESTANTE METALICO,NULL,~3/4; 25 g,25 g,Mediano
+B-94,4-AMINOBENZONITRILO,873-74-5,Aminas,ESTANTE METALICO,NULL,<= 1/5; 10 g,10 g,Mediano
+B-95,"2,6-DIAMINOANTRAQUINONA",131-14-6,Aminas,ESTANTE METALICO,NULL,~1/3; 100 g,100 g,Grande
+B-96,METILAMINA,"	74-89-5",Aminas,ESTANTE METALICO,NULL,>3/4; 1 L,1 L,Grande
+B-97,ETILAMINA,75-04-7,Aminas,ESTANTE METALICO,NULL,1 L,1 L,Muy grande
+B-98,MELAMINA,108-78-1,Aminas,ESTANTE METALICO,NULL,~1/2; 500 g,500 g,Grande
+B-99,DIMETILAMINA, 598-56-1,Aminas,ESTANTE METALICO,Envasado en frasco ámbar sin etiquetas.,~1/2; 50 mL,50 mL,Mediano
+B*-01,ACIDO BORICO,10043-35-3,Compuestos de boro,ESTANTE MADERA GRANDE,Uno de los dos frascos está mal etiquetado como B*-02,500 g,500 g,Grande
+B*-02,ACIDO BORICO,10043-35-4,Compuestos de boro,ESTANTE MADERA GRANDE,NULL,100 g,100 g,Mediano
+Ba-01,OXIDO DE BARIO,1304-28-5,Compuestos de bario,ESTANTE MADERA GRANDE,NULL,250 g,250 g,Mediano
+Ba-01,OXIDO DE BARIO,1304-28-5,Compuestos de bario,ESTANTE MADERA GRANDE,NULL,>1/10; 250 g,250 g,Mediano
+Ba-02,PEROXIDO DE BARIO,1304-29-6,Compuestos de bario,ESTANTE MADERA GRANDE,NULL,1 lb,1 lb,Grande
+Ba-03,HIDROXIDO DE BARIO, 17194-00-2,Compuestos de bario,ESTANTE MADERA GRANDE,NULL,500 g,500 g,Grande
+Ba-04,SULFONATO DE DIFENILAMINA DE BARIO,1300-92-1,Compuestos de bario,ESTANTE MADERA GRANDE,NULL,~1/3; 5 g,5 g,Pequeño 
+Ba-04,SULFONATO DE DIFENILAMINA DE BARIO,1300-92-1,Compuestos de bario,ESTANTE MADERA GRANDE,NULL,~1/3; 5 g,5 g,Pequeño
+Ba-05,CLORURO DE BARIO,10361-37-2,Compuestos de bario,ESTANTE MADERA GRANDE,NULL,>1/3; 50 g,50 g,Pequeño
+Ba-06,NITRATO DE BARIO,10022-31-8,Compuestos de bario,ESTANTE MADERA GRANDE,NULL,250 g,250 g,Grande
+Ba-07,ACETATO DE BARIO,543-80-6,Compuestos de bario,ESTANTE MADERA GRANDE,Frasco de compota reenvasado.,70 g,70 g,Mediano
+Bi-01,OXICLORURO DE BISMUTO,7787-59-9,Compuestos de bismuto,ESTANTE MADERA GRANDE,Es un frasco pequeño ámbar sin etiquetas y su contenido es líquido,<= 1/4; 25 g,25 g,Pequeño 
+C-1,"1,3-CICLOHEXANODIONA",504-02-9,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,~ 1/3; 25 g,25 g,Mediano
+C-1,"1,3-CICLOHEXANODIONA",504-02-9,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,~ 2/3; 25 g,25 g,Pequeño-mediano
+C-1,"1,3-CICLOHEXANODIONA",504-02-9,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,~ 1/3; 25 g,25 g,Mediano
+C-10,"2,6-DICLOROQUINONA-4-CLOROIMIDA",101-38-2,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,~ 1/2; 10 g,10 g,Pequeño
+C-11,3-ETOXI-4 HIDROXIBENZALDEHIDO,121-33-5,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,"Rótulo con marcas poco claras, las letras son escritas a mano",~ 1/3; 300 g,300 g,Grande
+C-12,3-HIDROXIACETOFENONA,121-71-1,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,~ 3/4; 2 g,2 g,Muy pequeño
+C-13,"3,4,5-TRIMETOXIBENZALDEHIDO",86-81-7,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,> 1/3; 100 g,100 g,Mediano
+C-13,"3,4,5-TRIMETOXIBENZALDEHIDO",86-81-7,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,> 1/2; 25 g,25 g,Pequeño
+C-13,"3,4,5-TRIMETOXIBENZALDEHIDO",86-81-7,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,~ 1/3; 100 g,100 g,Mediano
+C-14,4-(DIMETILAMINO)BENZALDEHIDO,100-10-7,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,> 4/5; 100 g,100 g,Mediano
+C-14,4-(DIMETILAMINO)BENZALDEHIDO,100-10-7,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,< 1/4; 100 g,100 g,Mediano
+C-14,4-(DIMETILAMINO)BENZALDEHIDO,100-10-7,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,10 g,10 g,Pequeño
+C-15,4-BROMOACETOFENONA,99-90-1,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,< 1/4; 25 g,25 g,Pequeño
+C-17,4-CLOROBENZALDEHIDO,104-88-1,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,< 2/3; 100 g,100 g,Mediano
+C-18,4-HIDROXIBENZALDEHIDO,123-08-0,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,~ 1/4; 250 g,250 g,Mediano
+C-20,4-METILACETOFENONA,122-00-9,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,< 1/4; 100 g,100 g,Mediano
+C-20,4-METILACETOFENONA,122-00-9,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,< 1/10; 50 g,50 g,Pequeño-medio
+C-21,4-METOXIBENZALDEHIDO,123-11-5,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,> 3/4; 500 mL,500 mL,Grande
+C-21,4-METOXIBENZALDEHIDO,123-11-5,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,~ 1/5; 250 mL,250 mL,Grande
+C-21,4-METOXIBENZALDEHIDO,123-11-5,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,> 3/4; 1 L,1 L,Muy grande
+C-22,4-NITROACETOFENONA,100-19-6,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,Casi agotado,< 1/20; 50 g,50 g,Mediano
+C-23,"4-HIDROXI-3,5-DIMETOXIBENZALDEHIDO",134-96-3,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,Agotado,0 g,25 g,Mediano
+C-24,ACETILACETONA,123-54-6,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,~ 3/4; 1 L,1 L,Muy grande
+C-25,ANTRONA,90-44-8,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,< 1/3; 25 g,25 g,Pequeño
+C-26,BENZALDEHIDO,100-52-7,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,> 3/4; 1 L,1 L,Muy grande
+C-27,BENZOFENONA,119-61-9,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,0 g,250 g,Grande
+C-27,BENZOFENONA,119-61-9,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,~ 3/4; 250 g,250 g,Mediano
+C-27,BENZOFENONA,119-61-9,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,< 1/4; 500 g,500 g,Grande
+C-28,CICLOHEXANONA,108-94-1,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,1 L,1 L,Muy grande
+C-28,CICLOHEXANONA,108-94-1,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,> 3/4; 500 mL,500 mL,Grande
+C-29,CICLOPENTANONA,120-92-3,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,~ 1/2; 100 mL,100 mL,Mediano
+C-3,"1,4-BENZOQUINONA",106-51-4,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,~ 1/3; 500 g,500 g,Grande
+C-30,CROTONALDEHIDO,123-73-9,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,> 3/4; 500 mL,500 mL,Grande
+C-31,DIMEDONA,126-81-8,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,~ 1/2; 25 g,25 g,Pequeño
+C-31,DIMEDONA,126-81-8,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,0 g,25 g,Pequeño
+C-32,FORMALDEHIDO,50-00-0,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,La botella tiene una gran cantidad de desecante,~ 1/2; 1 L,1 L,Muy grande
+C-33,FURFURAL,98-01-1,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,Hay una lata sin abrir en la nevera.,~ 2/3; 20 mL,20 mL,Pequeño
+C-34,HIDROQUINONA,123-31-9,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,> 1/3; 500 g,500 g (estimado),Grande
+C-36,TEREFTALALDEHIDO,623-27-8,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,~ 1/2; 100 g,100 g,Mediano
+C-36,TEREFTALALDEHIDO,623-27-8,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,300 g,300 g,Mediano
+C-37,2-NAFTALDEHIDO,66-99-9,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE METALICO BAJO LLAVE,NULL,>= 1/2; 5 g,5 g,Pequeño-medio
+C-38,PIRROL-2-CARBOXALDEHIDO,1003-29-8,Compuestos carbonílicos (aldehídos y cetonas),NEVERA,NULL,25 g,25 g,Mediano
+C-39,ACETOFENONA,98-86-2,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,~ 4/5; 80 mL,80 mL,Mediano
+C-4,2-CLOROBENZALDEHIDO,89-98-5,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,Frasco ámbar sin etiquetas,~1/2; 5 g,5 g,Mediano
+C-40,CUMARINA,91-64-5,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,Casi vacío,230 g,250 g,Mediano
+C-41,4-CIANOBENZALDEHIDO,105-07-7,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,~ 1/100; 5 g,5 g,Pequeño
+C-43,METIL-2-PIRIDILCETONA,1122-62-9,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,Reactivo nuevo,100 mL,100 mL,Mediano
+C-44,4-NITROBENZALDEHIDO,555-16-8,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,~ 1/2; 100 g,100 g,Mediano
+C-5,ORTO-FTALALDEHIDO,643-79-8,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,El envase no se puede abrir,5 g,5 g,Muy pequeño
+C-9,"2,6-DICLOROBENZALDEHIDO",83-38-5,Compuestos carbonílicos (aldehídos y cetonas),ESTANTE MADERA GRANDE,NULL,> 1/3; 100 g,100 g,Mediano
+Ca-01,CARBONATO DE CALCIO,471-34-1,Compuestos de calcio,ESTANTE MADERA GRANDE,Viene en un frasco sin etiquetas.,>4/5; 300 g,300 g,Grande
+Ca-02,CLORURO DE CALCIO,10043-52-4,Compuestos de calcio,ESTANTE MADERA GRANDE,NULL,1.5 kg,1.5 kg,Grande
+Ca-02,CLORURO DE CALCIO,10043-52-4,Compuestos de calcio,ESTANTE MADERA GRANDE,NULL,<= 1/6; 1 kg,1 kg,Muy grande
+Ca-03,SULFATO DE CALCIO ANHIDRO,7778-18-9,Compuestos de calcio,ESTANTE MADERA GRANDE,NULL,~1/2; 250 g,250 g,Medio-grande
+Ca-04,ACETATO DE CALCIO,62-54-4,Compuestos de calcio,ESTANTE MADERA GRANDE,Viene empacado en un frasco de conservas.,17 g,40 g,Mediano
+Ca-05,BROMURO DE CALCIO HIDRATADO,71626-99-8,Compuestos de calcio,ESTANTE MADERA GRANDE,Reactivo nuevo.,100 g,100 g,Medio-grande
+Ca-06,HIDRURO DE CALCIO,7789-78-8,Compuestos de calcio,ESTANTE METALICO SIN LLAVE,NULL,>= 5/6; 100 g,100 g,Grande
+Cd-01,CLORURO DE CADMIO MONOHIDRATADO,35658-65-2,Compuestos de cadmio,ESTANTE MADERA GRANDE,Solido empacado dentro de una lata.,95 g,100 g,Mediano
+Cd-02,ACETATO DE CADMIO,543-90-8,Compuestos de cadmio,ESTANTE MADERA GRANDE,NULL,200 g,200 g,Mediano
+Cd-03,NITRATO DE CADMIO TETRAHIDRATADO,10022-68-1,Compuestos de cadmio,ESTANTE MADERA GRANDE,NULL,~3/4; 250 g,250 g,Mediano
+Ce-01,SULFATO DE CERIO (IV),13590-82-4,Compuestos de cerio,ESTANTE MADERA GRANDE,NULL,1 L,1 L,Muy grande
+Co-01,NITRATO DE COBALTO,10026-22-9,Compuestos de cobalto,ESTANTE MADERA GRANDE,NULL,~2/3; 250 g,250 g,Grande
+Co-01,NITRATO DE COBALTO,10026-22-9,Compuestos de cobalto,ESTANTE MADERA GRANDE,NULL,100 g,100 g,Mediano
+Co-02,CLORURO DE COBALTO(II),10241-04-0,Compuestos de cobalto,ESTANTE MADERA GRANDE,NULL,~3/4; 100 g,100 g,Medio-grande
+Cr-01,ACIDO CROMICO,7738-94-5,Compuestos de cromo,ESTANTE MADERA GRANDE,"No se puede abrir, tiene aspecto de reactivo vencido.",1 kg,1 kg,Grande
+Cr-02,HEXACARBONILCROMO(0),13007-92-6 ,Compuestos de cromo,ESTANTE MADERA GRANDE,NULL,>= 3/4; 50 g,50 g,Pequeño-medio
+Cr-03,CLORURO DE CROMO(III),10025-73-7,Compuestos de cromo,ESTANTE MADERA GRANDE,NULL,>=1/2; 250 g,250 g,Grande
+Cu-01,NITRATO DE COBRE,10031-43-3,Compuestos de cobre,ESTANTE MADERA GRANDE,NULL,~1/3; 1 kg,1 kg,Muy grande
+Cu-02,ACETATO DE COBRE (II),142-71-2,Compuestos de cobre,ESTANTE MADERA GRANDE,NULL,<1/2; 1 lb,1 lb,Grande
+Cu-03,SULFATO DE COBRE PENTAHIDRATADO,7758-99-8,Compuestos de cobre,ESTANTE MADERA GRANDE,NULL,>1/2; 1 kg,1 kg,Muy grande
+Cu-04,YODURO DE COBRE (I),7681-65-4,Compuestos de cobre,ESTANTE MADERA GRANDE,NULL,~1/3; 100 g,100 g,Mediano
+Cu-05,"2,4-PENTANODIONATO DE COBRE",13395-16-9,Compuestos de cobre,ESTANTE MADERA GRANDE,NULL,~1/2; 50 g,50 g,Mediano
+Cu-06,COBRE EN POLVO,7440-50-8,Compuestos de cobre,ESTANTE MADERA GRANDE,NULL,~1/3; 100 g,100 g,Grande
+Cu-07,BROMURO DE COBRE(II),7789-45-9,Compuestos de cobre,ESTANTE MADERA GRANDE,Frasco ámbar pequeño sin etiquetas.,<= 1/3; 50 g,50 g,Mediano
+Cu-08,BROMURO DE COBRE(I),7787-70-4,Compuestos de cobre,DESECADOR DE VIDRIO,NULL,<1/2; 250 g,250 g,Grande
+Cu-08,BROMURO DE COBRE(I),7787-70-4,Compuestos de cobre,DESECADOR DE VIDRIO,NULL,<= 1/3; 50 g,50 g,Mediano
+D-1,ACETAMIDA,60-35-5,"Ésteres, derivados de ácido y sales",ESTANTE METALICO,NULL,1 kg,1 kg,Grande
+D-10,"1,5-DIFENILCARBAZONA",538-62-5,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>1/2; 25 g,25 g,Pequeño-medio
+D-11,ACIDO CROMOTROPICO (SAL DISODICA DIHIDRATADO),5808-22-0,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>= 3/4; 25 g,25 g,Pequeño
+D-12,L-TRIPTOFANO,73-22-3,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,~1/3; 25 g,25 g,Mediano
+D-13,4-BROMOBENZONITRILO,623-00-7,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,0 g,10 g,Pequeño
+D-13,4-BROMOBENZONITRILO,623-00-7,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,~1/3; 10 g,10 g,Pequeño
+D-14,FLUORESCEINATO DE SODIO,518-47-8,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>1/2; 25 g,25 g,Pequeño-medio
+D-15,4-HIDROXIBENZONITRILO,767-00-0,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>= 2/3; 50 g,50 g,Mediano
+D-16,1-HEXANOSULFONATO DE SODIO MONOHIDRATO,2832-45-3,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>1/2; 50 g,50 g,Mediano
+D-17,2-NITROTEREFTALATO DE METILO,35092-89-8,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,<= 1/2; 25 g,25 g,Mediano
+D-18,NONADECANOATO DE METILO,1731-94-8,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>= 1/3; 5 g,5 g,Pequeño
+D-19,OXALATO DE DIMETILO,553-90-2,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,Viene envasado en un vial de 15 mL sin rótulos.,7 g,7.5 g,Pequeño
+D-2,ANHIDRIDO FTALICO,85-44-9,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,"El frasco está nuevo, sin abrir.",100 g,100 g,Mediano
+D-2,ANHIDRIDO FTALICO,85-44-9,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,"El frasco está nuevo, sin abrir.",500 g,500 g,Grande
+D-20,N-METILFORMAMIDA,123-39-7,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,100 mL,100 mL,Medio-grande
+D-21,4-YODOBENZOATO DE METILO,619-44-3,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>= 1/3; 50 g,50 g,Mediano
+D-22,SULFANILAMIDA,63-74-1,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>4/5; 100 g,100 g,Mediano
+D-23,SULFATO DE QUININA DIHIDRATO,6119-70-6,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,<= 1/3; 10 g,10 g,Pequeño
+D-24,VALERATO DE METILO,624-24-8,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,~1/3; 5 mL,5 mL,Pequeño
+D-25,TETRAFENILBORATO DE SODIO,143-66-8,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>= 2/3; 25 g,25 g,Pequeño
+D-26,"CLORURO DE 2,3,5-TRIFENILTETRAZOLIO",298-96-4,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,10 g,10 g,Pequeño
+D-27,BORATO DE TRIISOPROPILO,5919-55-6,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,100 mL,100 mL,Mediano
+D-28,P-TOLUENSULFONAMIDA,70-55-3,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>1/2; 250 g,250 g,Grande
+D-29,"2,4-DIISOCIANATO DE TOLUENO",584-84-9,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,250 mL,250 mL,Medio-grande
+D-3,ACETATO DE DICICLOHEXILAMINA,14297-75-7,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,145 g,150 g,Mediano
+D-30,ACETATO DE ISOAMILO,123-92-2,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>4/5; 100 mL,100 mL,Mediano
+D-31,ACRILATO DE BUTILO,141-32-2,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,<= 1/4; 100 mL,100 mL,Grande
+D-32,BENZANILIDA,93-98-1,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,100 g,100 g,Medio-grande
+D-34,CITRATO DE SODIO (BOLSA PLASTICA),68-04-2,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,"Está empacado en una bolsa de materias primas, la bolsa se encuentra abierta a la intemperie.",>4/5; 1 lb,1 lb,Mediano
+D-35,"N,N-DIETILFORMAMIDA",617-84-5,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>1/3; 25 g,25 g,Mediano
+D-36,DIFENILACETONITRILO,86-29-3,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>3/4; 250 g,250 g,Grande
+D-38,DIOCTILSULFOSUCCINATO DE SODIO SAL SODICA,577-11-7,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,~1/3; 100 g,100 g,Grande
+D-39,FORMAMIDA,75-12-7,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>= 2/3; 250 mL,250 mL,Grande
+D-4,OXAMATO DE SODIO,617-36-7,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,10 g,10 g,Pequeño
+D-40,FENILISOCIANATO,616-38-6,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,100 mL,100 mL,Mediano
+D-41,GLUCONATO DE SODIO (BOLSA PLASTICA),527-07-1,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,Empacado en una bolsa plástica resellable.,135 g,200 g,Mediano
+D-42,4-HIDROXIBENZOATO DE METILO,99-76-3,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>=5/6; 250 g,250 g,Medio-grande
+D-42,4-HIDROXIBENZOATO DE METILO,99-76-3,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>= 5/6; 250 g,250 g,Medio-grande
+D-43,TETRAFLUOROBORATO DE 4-NITROBENCENODIAZONIO,456-27-9,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,~1/3; 10 g,10 g,Mediano
+D-44,SODAMIDA,7782-92-5,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>=5/6; 100 g,100 g,Mediano
+D-45,SALICILAMIDA,65-42-2,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,250 g,250 g,Grande
+D-47,DIMETILFTALATO,131-11-3,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,Está envasado en un frasco ámbar sin etiquetas.,250 mL,250 mL,Medio-grande
+D-48,ANHIDRIDO MALEICO,108-31-6,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,El frasco no se puede abrir con facilidad.,500 g,500 g,Grande
+D-5,BROMURO DE METILTRIFENILFOSFONIO,1779-49-3,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,100 g,100 g,Mediano
+D-5,BROMURO DE METILTRIFENILFOSFONIO,1779-49-3,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,<= 1/20; 100 g,100 g,Mediano
+D-51,DIFENILMETANO,101-81-5,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>= 5/6; 250 mL,250 mL,Medio-grande
+D-51,DIFENILMETANO,101-81-5,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>= 5/6; 250 mL,250 mL,Medio-grande
+D-51,DIFENILMETANO,101-81-5,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>= 5/6; 250 mL,250 mL,Medio-grande
+D-51,DIFENILMETANO,101-81-5,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>= 5/6; 250 mL,250 mL,Medio-grande
+D-52,2-(BROMOMETIL)BENZONITRILO,22115-41-9,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>3/4; 25 g,25 g,Mediano
+D-53,TETRAFLUOROTEREFTALONITRILO,1835-49-0,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,25 g,25 g,Pequeño
+D-54,DIETILMALONATO,105-53-3,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>3/4; 25 g,25 g,Mediano
+D-55,BISPIRAZOLONA,7477-67-0,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,50 g,50 g,Mediano
+D-56,BUTILCARBAMATO,592-35-8,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,25 g,25 g,Pequeño
+D-57,4-FORMILBENZOATO DE METILO,93-58-3,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>5/6; 100 g,100 g,Mediano
+D-58,QUERATINA,68238-35-7,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,62 mL,65 mL,Pequeño-medio
+D-59,ACETATO DE AMILO,628-63-7,"Ésteres, derivados de ácido y sales",ESTANTE METALICO SIN LLAVE,NULL,>3/4; 1 L, 1 L,Grande
+D-6,ACETOACETATO DE ETILO,141-97-9,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>1/2; 250 mL,250 mL,Mediano
+D-7,4-ESTIRENSULFONATO DE SODIO,2695-37-6,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,>= 1/4; 50 g,50 g,Mediano
+D-9,CLORURO DE DANSILO,605-65-2,"Ésteres, derivados de ácido y sales",ESTANTE METÁLICO,NULL,<= 1/4; 1 g,1 g,Muy pequeño
+DE-01,TRIFENILFOSFITO SECO,101-02-0,Compuestos en desecador,DESECADOR DE VIDRIO-ESTANTE METALICO,NULL,10 mL,15 mL,Pequeño
+DE-05,"N,N'-DICICLOHEXILCARBODIIMIDA",538-75-0,Compuestos en desecador,DESECADOR PLASTICO,NULL,>1/3; 100 g,100 g,Grande
+DE-07,TERTBUTOXIDO DE POTASIO,865-47-4,Compuestos en desecador,DESECADOR DE VIDRIO,NULL,<1/5; 25 g,25 g,Mediano
+F-1,AMBERLITA IRA-400,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,<1/50; 1 lb,1 lb,Grande
+F-10,OXIDO DE ALUMINIO 90 ACTIVADO,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,>= 1/4; 1 kg,1 kg,Muy grande
+F-12,OXIDO DE ALUMINIO G,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,1 kg,1 kg,Grande
+F-12,OXIDO DE ALUMINIO G,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,250 g,250 g,Mediano
+F-12,OXIDO DE ALUMINIO G,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,250 g,250 g,Mediano
+F-13,OXIDO DE ALUMINIO G NEUTRO,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,>1/3; 500 g,500 g,Grande
+F-14,GEL DE SILICE PARA CROMATOGRAFIA EN COLUMNA,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,~1/10; 500 g,500 g,Grande
+F-14,GEL DE SILICE PARA CROMATOGRAFIA EN COLUMNA,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,>= 2/3; 500 g,500 g,Grande
+F-18,SILICA CON INDICADOR DE HUMEDAD,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,>= 1/2; 1 kg,1 kg,Grande
+F-18,SILICA CON INDICADOR DE HUMEDAD,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,~1/3; 1 kg,1 kg,Grande
+F-18,SILICA CON INDICADOR DE HUMEDAD,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,> 3/4; 1 kg,1 kg,Grande
+F-19,TIERRA SILICEA PURIFICADA Y CALCINADA,NULL,Silica y demás,ESTANTE MADERA GRANDE,Etiquetado erróneamente como F-30.,<= 2/3; 1 kg,1 kg,Grande
+F-19,TIERRA SILICEA PURIFICADA Y CALCINADA,NULL,Silica y demás,ESTANTE MADERA GRANDE,Etiquetado erróneamente como F-30.,<1/20; 1 kg,1 kg,Grande
+F-2,AMBERLITA IRA-120,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,>= 3/4; 1 lb,1 lb,Grande
+F-20,SILICA FUNCIONALIZADA CON OCTADECILO FASE REVERSA,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,<= 4/5; 100 g,100 g,Grande
+F-21,SILICA 60 PF(254),NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,5 kg,5 kg,Gigante
+F-23,CELULOSA,9004-34-6,Silica y demás,ESTANTE MADERA GRANDE,NULL,>=2/3; 1 kg,1 kg,Muy grande
+F-24,TAMICES MOLECULARES 3A,NULL,Silica y demás,ESTANTE MADERA GRANDE,El frasco no. 1 tiene un mesh de 4-8 y el frasco no. 2 tiene un mesh de 8-12.,1 kg,1 kg,Grande
+F-24,TAMICES MOLECULARES 3A,NULL,Silica y demás,ESTANTE MADERA GRANDE,El frasco no. 1 tiene un mesh de 4-8 y el frasco no. 2 tiene un mesh de 8-12.,~1/6; 1 kg,1 kg,Muy grande
+F-25,CHEMIZORB,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,<1/2; 500 g,500 g,Muy grande
+F-27,POLIETILIENO DE ALTA DENSIDAD (HDPE),NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,3 kg,3 kg,Muy grande
+F-27,POLIETILIENO DE ALTA DENSIDAD (HDPE),NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,3 kg,3 kg,Muy grande
+F-28,CHROMOSORB W/NAW,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,>5/6; 100 g,100 g,Mediano
+F-28,CHROMOSORB W/NAW,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,100 g,100 g,Mediano
+F-28,CHROMOSORB W/NAW,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,100 g,100 g,Mediano
+F-28,CHROMOSORB W/NAW,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,>5/6; 100 g,100 g,Mediano
+F-28,CHROMOSORB W/NAW,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,>4/5; 100 g,100 g,Mediano
+F-28,CHROMOSORB W/NAW,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,100 g,100 g,Mediano
+F-29,POLIPROPILENO,NULL,Silica y demás,ESTANTE MADERA GRANDE,Empacado en una bolsa plástica sin etiquetas.,250 g,250 g,Grande
+F-3,AMBERLITA IRA-63,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,>2/3; 1 lb,1 lb,Grande
+F-30,POLICLORURO DE VINILO (PVC),9000-86-2,Silica y demás,ESTANTE MADERA GRANDE,NULL,>5/6; 250 g,250 g,Grande
+F-31,SILICA MESOESTRUCTURADA SBA-15,7631-86-9,Silica y demás,ESTANTE MADERA GRANDE,"Reactivo nuevo, sin abrir.",5 g,5 g,Mediano
+F-32,OXIDO DE ALUMINIO 90 ESTANDARIZADO PARA ANALISIS CROMATOGRAFICO POR ADSORCION,NULL,Silica y demás,ESTANTE MADERA GRANDE,Re-envasado en un frasco de conservas.,>3/4; 150 g,150 g,Mediano
+F-33,TIERRA SILICEA G PARA TLC,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,<1/2; 500 g,500 g,Grande
+F-4,AMBERLITA CG-50 (H),NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,>= 2/3; 500 g,500 g,Grande
+F-5,AMBERLITA IRA-45,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,~2/3; 500 g,500 g,Grande
+F-6,CARBON ACTIVADO DARCO,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,>5/6; 1 kg,1 kg,Gigante
+F-6,CARBON ACTIVADO DARCO,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,>= 1/4; 500 g,500 g,Muy grande
+F-6,CARBON ACTIVADO DARCO,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,<= 2/3; 250 g,250 g,Grande
+F-7,OXIDO DE ALUMINIO NEUTRO 60 GF(254),NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,~1/2; 500 g,500 g,Grande
+F-7,OXIDO DE ALUMINIO NEUTRO 60 GF(254),NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,>4/5; 500 g,500 g,Grande
+F-8,OXIDO DE ALUMINIO 150 ACIDO,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,<= 1/2; 500 g,500 g,Grande
+F-9,ALUMINA GRADO CROMATOGRAFIA DE GASES,NULL,Silica y demás,ESTANTE MADERA GRANDE,NULL,>=3/4; 250 g,250 g,Mediano
+Fe-01,HIERRO METALICO EN POLVO, 7439-89-6,Compuestos de hierro,ESTANTE MADERA GRANDE,NULL,250 g,250 g,Pequeño-medio
+Fe-02,CLORURO DE HIERRO(III),7705-08-0,Compuestos de hierro,ESTANTE MADERA GRANDE,NULL,~2/3; 1 kg,1 kg,Gigante
+H-21,DMAEMA PURIFICADO,2867-47-2*,Compuestos sin clasificación,NEVERA,NULL,~1/4; 200 mL,200 mL,Medio-grande
+H-21,DMAEMA PURIFICADO,2867-47-2*,Compuestos sin clasificación,NEVERA,NULL,~1/4; 200 mL,200 mL,Medio-grande
+H-22,N-BUTIL ACRILATO PURIFICADO,141-32-2**,Compuestos sin clasificación,NEVERA,NULL,~1/10; 100 mL,100 mL,Mediano
+H-22,N-BUTIL ACRILATO PURIFICADO,141-32-2**,Compuestos sin clasificación,NEVERA,NULL,~1/10; 150 mL,150 mL,Mediano
+H-22,N-BUTIL ACRILATO PURIFICADO,141-32-2**,Compuestos sin clasificación,NEVERA,NULL,~3/4; 150 mL,150 mL,Mediano
+H-22,N-BUTIL ACRILATO PURIFICADO,141-32-2**,Compuestos sin clasificación,NEVERA,NULL,~1/10; 100 mL,100 mL,Mediano
+H-22,N-BUTIL ACRILATO PURIFICADO,141-32-2**,Compuestos sin clasificación,NEVERA,NULL,~3/4; 150 mL,150 mL,Mediano
+H-22,N-BUTIL ACRILATO PURIFICADO,141-32-2**,Compuestos sin clasificación,NEVERA,NULL,~1/10; 150 mL,150 mL,Mediano
+H-24,METACRILATO DE LAURILO,142-90-5,Compuestos sin clasificación,NEVERA,NULL,100 mL,100 mL,Mediano
+H-24,METACRILATO DE LAURILO,142-90-5,Compuestos sin clasificación,NEVERA,NULL,100 mL,100 mL,Mediano
+H-25,ACIDO 3-MALEIMIDOPROPIONICO,7423-55-4,Compuestos sin clasificación,NEVERA,NULL,~1/4; 100 mL,100 mL,Mediano
+H-25,ACIDO 3-MALEIMIDOPROPIONICO,7423-55-4,Compuestos sin clasificación,NEVERA,NULL,~1/4; 100 mL,100 mL,Mediano
+H-28,"1,6-HEXANODIAMINA",124-09-4*,Compuestos sin clasificación,NEVERA,NULL,~1/5; 20 g,20 g,Pequeño
+H-28,"1,6-HEXANODIAMINA",124-09-4*,Compuestos sin clasificación,NEVERA,NULL,~1/5; 20 g,20 g,Pequeño
+H-29,GRANDISOL,30820-22-5,Compuestos sin clasificación,NEVERA,NULL,2 mL,2 mL,Muy pequeño
+H-29,GRANDISOL,30820-22-5,Compuestos sin clasificación,NEVERA,NULL,2 mL,2 mL,Muy pequeño
+H-31,17(beta)-ESTRADIOL,50-28-2,Compuestos sin clasificación,NEVERA,NULL,<1/2; 1 g,1 g,Pequeño
+H-31,17(beta)-ESTRADIOL,50-28-2,Compuestos sin clasificación,NEVERA,NULL,<1/2; 1 g,1 g,Pequeño
+H-32,NANOCELULOSA VEGEAL DE RAQUIS DE BANANO,NULL,Compuestos sin clasificación,NEVERA,"Empacado en un balde con cierre hermético, producido por la UPB-Medellín.",NULL,NULL,Gigante
+H-32,NANOCELULOSA VEGEAL DE RAQUIS DE BANANO,NULL,Compuestos sin clasificación,NEVERA,"Empacado en un balde con cierre hermético, producido por la UPB-Medellín.",NULL,NULL,Gigante
+H-33,ACEITE DE COCO,8001-31-8,Compuestos sin clasificación,NEVERA,"Existen tres frascos y un caneca de 20 L con esta sustancia, producidos por Tacay. La etiqueta de la caneca dice que el aceite de coco se vence a finales de 2022.",10 kg,10 kg,Gigante
+H-33,ACEITE DE COCO,8001-31-8,Compuestos sin clasificación,NEVERA,"Existen tres frascos y un caneca de 20 L con esta sustancia, producidos por Tacay. La etiqueta de la caneca dice que el aceite de coco se vence a finales de 2022.",10 kg,10 kg,Gigante
+H-35,OXIMA PURA NOVABIOCHEM,3849-21-6,Compuestos sin clasificación,NEVERA,NULL,100 g,100 g,Medio-grande
+H-35,OXIMA PURA NOVABIOCHEM,3849-21-6,Compuestos sin clasificación,NEVERA,NULL,100 g,100 g,Medio-grande
+H-37,HIDROCLORURO DE 3-CLOROPROPILAMINA,6276-54-6,Compuestos sin clasificación,NEVERA,NULL,>= 4/5; 250 g,250 g,Grande
+H-37,HIDROCLORURO DE 3-CLOROPROPILAMINA,6276-54-6,Compuestos sin clasificación,NEVERA,NULL,>= 4/5; 250 g,250 g,Grande
+H-38,NANOCELULOSA OXIDADA,NULL,Compuestos sin clasificación,NEVERA,"Re-envasado en un frasco ámbar, traído de la UIS para el proyecto de bioempaques.",125 mL,125 mL,Mediano
+H-38,NANOCELULOSA OXIDADA,NULL,Compuestos sin clasificación,NEVERA,"Re-envasado en un frasco ámbar, traído de la UIS para el proyecto de bioempaques.",125 mL,125 mL,Mediano
+H-40,"4,7-DICLOROQUINOLINA",86-98-6,Compuestos sin clasificación,NEVERA,NULL,~1/4; 100 g,100 g,Medio-grande
+H-40,"4,7-DICLOROQUINOLINA",86-98-6,Compuestos sin clasificación,NEVERA,NULL,~1/4; 100 g,100 g,Medio-grande
+H-41,DESOXICOLATO DE SODIO,302-95-4,Compuestos sin clasificación,NEVERA,NULL,<1/4; 25 g,25 g,Pequeño
+H-41,DESOXICOLATO DE SODIO,302-95-4,Compuestos sin clasificación,NEVERA,NULL,<1/4; 25 g,25 g,Pequeño
+H-42,DISOLUCIÓN PATRÓN DE PLOMO AAS,10099-74-8,Compuestos sin clasificación,NEVERA,NULL,~1/4; 100 mL,100 mL,Mediano
+H-42,DISOLUCIÓN PATRÓN DE PLOMO AAS,10099-74-8,Compuestos sin clasificación,NEVERA,NULL,~1/4; 100 mL,100 mL,Mediano
+H-43,DISOLUCIÓN PATRÓN DE CADMIO AAS,10325-94-7,Compuestos sin clasificación,NEVERA,NULL,>2/3; 100 mL,100 mL,Mediano
+H-43,DISOLUCIÓN PATRÓN DE CADMIO AAS,10325-94-7,Compuestos sin clasificación,NEVERA,NULL,>2/3; 100 mL,100 mL,Mediano
+H-44,ÁCIDO 4-VINILBENZOICO,1075-49-6,Compuestos sin clasificación,NEVERA,NULL,< 1/5; 5 g,5 g,Pequeño
+H-44,ÁCIDO 4-VINILBENZOICO,1075-49-6,Compuestos sin clasificación,NEVERA,NULL,< 1/5; 5 g,5 g,Pequeño
+H-45,"PATRONES DE ÁCIDOS GRASOS (ÁC. MIRÍSTICO, ÁC. NONADECANOICO, ÁC. UNDECANOICO)",NULL,Compuestos sin clasificación,NEVERA,NULL,<2/3; 8 g,8 g,Pequeño
+H-45,"PATRONES DE ÁCIDOS GRASOS (ÁC. MIRÍSTICO, ÁC. NONADECANOICO, ÁC. UNDECANOICO)",NULL,Compuestos sin clasificación,NEVERA,NULL,<2/3; 8 g,8 g,Pequeño
+H-46,DISOLUCIÓN DE HIDROXILAMINA,7803-49-8,Compuestos sin clasificación,NEVERA,NULL,60 mL,60 mL,Mediano
+H-46,DISOLUCIÓN DE HIDROXILAMINA,7803-49-8,Compuestos sin clasificación,NEVERA,NULL,60 mL,60 mL,Mediano
+H-47,ÁCIDO YODHÍDRICO,10034-85-2,Compuestos sin clasificación,NEVERA,NULL,50 mL,50 mL,Mediano
+H-47,ÁCIDO YODHÍDRICO,10034-85-2,Compuestos sin clasificación,NEVERA,NULL,50 mL,50 mL,Mediano
+H-48,NANOCELULOSA EXILVA P-OIL,NULL,Compuestos sin clasificación,NEVERA,NULL,~2/3; 500 g,500 g,Grande
+H-48,NANOCELULOSA EXILVA P-OIL,NULL,Compuestos sin clasificación,NEVERA,NULL,~2/3; 500 g,500 g,Grande
+H-49,ACETATO DE DODECILO,112-66-3,Compuestos sin clasificación,NEVERA,NULL,500 mL,500 mL,Grande
+H-49,ACETATO DE DODECILO,112-66-3,Compuestos sin clasificación,NEVERA,NULL,500 mL,500 mL,Grande
+Hg-01,NITRATO DE MERCURIO,10415-75-5,Compuestos de mercurio,ESTANTE MADERA GRANDE,NULL,>= 2/3; 250 g,250 g,Mediano
+Hg-02,BROMURO DE MERCURIO,7789-47-1,Compuestos de mercurio,ESTANTE MADERA GRANDE,NULL,150 g,150 g,Pequeño
+Hg-03,ACETATO DE MERCURIO,1600-27-7,Compuestos de mercurio,ESTANTE MADERA GRANDE,El frasco 2 viene sin etiquetas.,~1/10; 20 g,20 g,Pequeño
+Hg-03,ACETATO DE MERCURIO,1600-27-7,Compuestos de mercurio,ESTANTE MADERA GRANDE,El frasco 2 viene sin etiquetas.,~1/3; 250 g,250 g,Mediano
+Hg-04,CLORURO DE MERCURIO,7487-94-7,Compuestos de mercurio,ESTANTE MADERA GRANDE,Frasco ámbar sin etiquetas.,250 g,250 g,Mediano
+Hg-04,CLORURO DE MERCURIO,7487-94-7,Compuestos de mercurio,ESTANTE MADERA GRANDE,Frasco ámbar sin etiquetas.,~1/6; 30 g,30 g,Mediano
+Hg-04,CLORURO DE MERCURIO,7487-94-7,Compuestos de mercurio,ESTANTE MADERA GRANDE,Frasco ámbar sin etiquetas.,<1/4; 125 g,125 g,Mediano
+Hg-05,BROMURO DE MERCURIO,7789-47-1*,Compuestos de mercurio,ESTANTE MADERA GRANDE,NULL,~1/5; 50 g,50 g,Pequeño-medio
+I-01,ACIDO YODICO,7782-68-5,Compuestos de yodo,ESTANTE MADERA GRANDE,NULL,100 g,100 g,Pequeño-medio
+I-02,YODO RESUBLIMADO,7553-56-2,Compuestos de yodo,ESTANTE MADERA GRANDE,NULL,~1/4; 500 g,500 g,Grande
+I-02,YODO RESUBLIMADO,7553-56-2,Compuestos de yodo,ESTANTE MADERA GRANDE,NULL,100 g,100 g,Pequeño-medio
+In-01,CLORURO DE INDIO(III) TETRAHIDRATADO,143983-91-9,Compuestos de indio,ESTANTE MADERA GRANDE,"Parece que no ha sido abierto, viene en una bolsa sellada.",50 g,50 g,Mediano
+K-01,DIHIDROGENOFOSFATO DE POTASIO,7778-77-0,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,1 kg,1 kg,Grande
+K-02,SULFATO DE POTASIO,7778-80-5,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,~1/2; 1 kg,1 kg,Grande
+K-02,SULFATO DE POTASIO,7778-80-5,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,1 kg,1 kg,Grande
+K-03,BIFTALATO DE POTASIO,877-24-7,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,~1/3; 250 g,250 g,Grande
+K-04,CIANURO DE POTASIO,151-50-8,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,~3/4; 250 g,250 g,Grande
+K-05,CIANATO DE POTASIO,590-28-3,Compuestos de potasio,ESTANTE MADERA GRANDE,"Tiene una bolsa dentro que parece desecante, el reactivo parece aglomerarse en grandes bloques.",400 g,400 g,Grande
+K-06,CARBONATO DE POTASIO,584-08-7,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,~1/2; 500 g,500 g,Grande
+K-08,YODURO DE POTASIO,7681-11-0,Compuestos de potasio,ESTANTE MADERA GRANDE,Es un envase plástico sin etiquetas.,2 g,20 g,Mediano
+K-09,BROMURO DE POTASIO,03-02-58,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,~1/10; 500 g,500 g,Grande
+K-09,BROMURO DE POTASIO,03-02-58,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,>3/4; 1 kg,1 kg,Grande
+K-10,HIDROXIDO DE POTASIO,1310-58-3,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,~1/3; 1 kg,1 kg,Grande
+K-10,HIDROXIDO DE POTASIO,1310-58-3,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,~1/2; 1 kg,1 kg,Grande
+K-10,HIDROXIDO DE POTASIO,1310-58-3,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,1 kg,1 kg,Grande
+K-11,PERSULFATO DE POTASIO,7727-21-1,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,~4/5; 500 g,500 g,Grande
+K-12,CLORURO DE POTASIO,7447-40-7,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,1 kg,1 kg,Grande
+K-13,CROMATO DE POTASIO,7789-00-6,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,>1/2; 250 g,250 g,Medio-grande
+K-15,PERYODATO DE POTASIO, 7790-21-8,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,>4/5; 100 g,100 g,Mediano
+K-15,PERYODATO DE POTASIO, 7790-21-8,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,~1/2; 100 g,100 g,Mediano
+K-17,HEXACLOROPLATINATO DE POTASIO(I),16921-30-5,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,<= 1/5; 5 g,5 h,Muy pequeño
+K-18,YODATO DE POTASIO,06-05-58,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,>= 1/2; 100 g,100 g,Mediano
+K-18,YODATO DE POTASIO,06-05-58,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,~2/3; 100 g,100 g,Mediano
+K-18,YODATO DE POTASIO,06-05-58,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,~1/3; 100 g,100 g,Mediano
+K-18,YODATO DE POTASIO,06-05-58,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,~1/3; 100 g,100 g,Mediano
+K-18,YODATO DE POTASIO,06-05-58,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,~1/50; 50 g,50 g,Pequeño
+K-19,PERMANGANATO DE POTASIO,7722-64-7,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,~1/3; 500 g,500 g,Grande
+K-19,PERMANGANATO DE POTASIO,7722-64-7,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,~1/6; 100 g,100 g,Mediano
+K-19,PERMANGANATO DE POTASIO,7722-64-7,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,500 g,500 g,Grande
+K-19,PERMANGANATO DE POTASIO,7722-64-7,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,>= 4/5; 250 g,250 g,Medio-grande
+K-19,PERMANGANATO DE POTASIO,7722-64-7,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,250 g,250 g,Mediano
+K-20,BISULFATO DE POTASIO,7646-93-7,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,>= 3/4; 200 g,200 g,Medio-grande
+K-22,DICROMATO DE POTASIO,7778-50-9,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,>= 1/2; 1 kg,1 kg,Grande
+K-24,TIOCIANATO DE POTASIO,333-20-0,Compuestos de potasio,ESTANTE MADERA GRANDE,NULL,~1/2; 250 g,250 g,Grande
+L-1,CLORURO DE PALADIO (II),01-10-47,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,Los frascos vienen empacados dentro de cajas pequeñas.,1 g,1 g,Pequeño
+L-1,CLORURO DE PALADIO (II),01-10-47,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,Los frascos vienen empacados dentro de cajas pequeñas.,<1/5; 100 mg,100 mg,Muy pequeño
+L-10,ETER CORONA-DIBENZO-18-CORONA-6,14187-32-7,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,~1/2; 5 g,5 g,Pequeño-medio
+L-11,4-(DIMETILAMINO)PIRIDINA,1122-58-3,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,>= 1/3; 25 g,25 g,Mediano
+L-14,"DICLORO[BIS(1,3-DIFENILFOSFINO)PROPANO NIQUEL (II)",156629-92-2,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,~1/4; 5 g,5 g,Muy pequeño
+L-15,DICLORURO DE FTALOCIANINA DE SILICIO,19333-10-9,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,>= 1/2; 5 g,5 g,Pequeño
+L-16,"1,3,5-BENCENOTRICARBONIL CLORURO",4422-95-1,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,~1/2; 25 g,25 g,Mediano
+L-2,BIS(DIBENCILIDENOACETONA) DE PALADIO (0),32005-36-0,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,<= 1/2; 5 g,5 g,Pequeño
+L-2,BIS(DIBENCILIDENOACETONA) DE PALADIO (0),32005-36-0,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,<1/10; 5 g,5 g,Pequeño
+L-2,BIS(DIBENCILIDENOACETONA) DE PALADIO (0),32005-36-0,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,<1/4; 5 g,5 g,Pequeño
+L-20,"9,10-DIFENILANTRACENO",1499-10-1,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,~1/3; 1 g,1 g,Pequeño
+L-21,9-BROMOANTRACENO,1564-64-3,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,>2/3; 5 g,5 g,Mediano
+L-21,9-BROMOANTRACENO,1564-64-3,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,25 g,25 g,Medio-grande
+L-22,2-BROMONAFTALENO,580-13-2,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,>1/4; 5 g,5 g,Mediano
+L-22,2-BROMONAFTALENO,580-13-2,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,<= 1/4; 5 g,5 g,Mediano
+L-23,1-BROMOPIRENO,1714-29-0,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,<1/3; 1 g,1 g,Pequeño
+L-24,ISOFTALDEHIDO / DICARBOXALDEHIDO ISOFTALICO,626-19-7,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,~2/3; 5 g,5 g,Pequeño
+L-24,ISOFTALDEHIDO / DICARBOXALDEHIDO ISOFTALICO,626-19-7,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,5 g,5 g,Mediano
+L-25,ISOPROPOXIDO DE TITANIO (IV),546-68-9,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,Parte del reactivo se ha hidrolizado.,>1/2; 100 g,100 g,Mediano
+L-28,CLORURO DE ZIRCONIO (IV),10026-11-6,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,Los frascos vienen sellados y dentro de una caja.,25 g,25 g,Grande
+L-28,CLORURO DE ZIRCONIO (IV),10026-11-6,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,Los frascos vienen sellados y dentro de una caja.,25 g,25 g,Grande
+L-29,HEXAMETILDISILAZANO,999-97-3,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,Empacado en una lata con desecante.,>4/5; 100 mL,100 mL,Grande
+L-3,NITRATO DE PALADIO (II) DIHIDRATADO,10102-05-3,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,<1/10; 10 mg,10 mg,Muy pequeño
+L-30,(3-AMINOPROPIL)TRIETOXISILANO,919-30-2,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,>= 4/5; 100 mL,100 mL,Medio-grande
+L-31,PERINAFTENONA,548-39-0,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,~1/2; 1 g,1 g,Pequeño
+L-32,CLOROCROMATO DE PIRIDINIO,"	26299-14-9",Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,~1/2; 100 g,100 g,Medio-grande
+L-33,"2,5-DIBROMOBENZALDEHIDO",50910-55-9,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,NULL,NULL,Pequeño
+L-34,PERILENO,198-55-0,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,>1/3; 1 g,1 g,Pequeño
+L-35,TRIS(DIBENCILIDENACETONA)DIPALADIO(0),51364-51-3,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,~2/3; 5 g,5 g,Pequeño
+L-36,O-YODOBENZALDEHIDO,26260-02-6,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,NULL,NULL,Pequeño
+L-37,n-BUTOXIDO DE TITANIO(IV),"	5593-70-4",Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,>4/5; 100 g,100 g,Mediano
+L-38,rac-BINAP,98327-87-8,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,~1/3; 5 g,5 g,Pequeño
+L-39,4-(BROMOMETIL)BENZOATO DE METILO,"	2417-72-3",Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,~1/2; 5 g,5 g,Pequeño
+L-4,ACETATO DE PALADIO (II),3375-31-3,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,<1/5; 2 g,2 g,Pequeño
+L-4,ACETATO DE PALADIO (II),3375-31-3,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,<= 1/2; 5 g,5 g,Pequeño
+L-4,ACETATO DE PALADIO (II),3375-31-3,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,<1/20; 1 g,1 g,Pequeño
+L-40,NINHIDRINA,485-47-2,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,~1/2; 10 g,10 g,Pequeño-medio
+L-41,8-HIDROXIQUINOLINA,148-24-3,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,NULL,NULL,Mediano
+L-42,"2,2'-BIPIRIDINA",366-18-7,Compuestos de paladio y reactivos especiales,ESTANTE METALICO SIN LLAVE,NULL,>= 1/3; 10 g,10 g,Pequeño
+L-42,"2,2'-BIPIRIDINA",366-18-7,Compuestos de paladio y reactivos especiales,ESTANTE METALICO SIN LLAVE,NULL,~1/2; 10 g,10 g,Pequeño
+L-42,"2,2'-BIPIRIDINA",366-18-7,Compuestos de paladio y reactivos especiales,ESTANTE METALICO SIN LLAVE,NULL,~1/2; 10 g,10 g,Pequeño
+L-6,ACIDO 2-BROMOTEREFTALICO,586-35-6,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,<1/20; 5 g,5 g,Pequeño-medio
+L-7,ACIDO 3-FORMIL-4-HIDROXIBENZOICO,584-87-2,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,~1/4; 5 g,5 g,Mediano
+L-8,ACIDO 2-METILTEREFTALICO,04-01-56,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,<1/20; 1 g,1 g,Pequeño
+L-9,DICLORURO DE BIS(TRIFENILFOSFINA) DE PALADIO (II),13965-03-2,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,<= 1/3; 5 g,5 g,Mediano
+L-9,DICLORURO DE BIS(TRIFENILFOSFINA) DE PALADIO (II),13965-03-2,Compuestos de paladio y reactivos especiales,ESTANTE METALICO BAJO LLAVE,NULL,2 g,5 g,Muy pequeño
+La-01,CLORURO DE LANTANO HEPTAHIDRATO,10025-84-0,Compuestos de lantano,ESTANTE MADERA GRANDE,NULL,~1/3; 100 g,100 g,Mediano
+La-01,CLORURO DE LANTANO HEPTAHIDRATO,10025-84-0,Compuestos de lantano,ESTANTE MADERA GRANDE,NULL,~1/3; 100 g,100 g,Mediano
+Li-02,LITIO,7727-37-9,Compuestos de litio,ESTANTE MADERA GRANDE,Uno de los frascos está recién destapado.,25 g,25 g,Medio-grande
+Li-02,LITIO,7727-37-9,Compuestos de litio,ESTANTE MADERA GRANDE,Uno de los frascos está recién destapado.,25 g,25 g,Medio-grande
+Li-02,LITIO,7727-37-9,Compuestos de litio,ESTANTE MADERA GRANDE,Uno de los frascos está recién destapado.,NULL,25 g,Medio-grande
+Li-03,HIDRURO DE LITIO,7580-67-8,Compuestos de litio,ESTANTE MADERA GRANDE,El reactivo viene dentro de un frasco sellado y este a su vez dentro de una lata grande.,10 g,10 g,Muy grande
+Mg-01,SULFATO DE MAGNESIO,7487-88-9,Compuestos de magnesio,ESTANTE MADERA GRANDE,NULL,~1/2; 1 kg,1 kg,Grande
+Mg-03,CLORURO DE MAGNESIO,7786-30-3,Compuestos de magnesio,ESTANTE MADERA GRANDE,NULL,<1/2; 100 g,100 g,Mediano
+Mg-04,NITRATO DE MAGNESIO HEXAHIDRATADO,13446-18-9,Compuestos de magnesio,ESTANTE MADERA GRANDE,El frasco plástico está remendado con cinta negra en su base.,~3/4; 200 g,200 g,Medio-grande
+Mg-05,MAGNESIO METALICO,7439-95-4,Compuestos de magnesio,ESTANTE MADERA GRANDE,Frasco ámbar sin etiquetas.,100 g,100 g,Pequeño
+Mn-01,CLORURO DE MANGANESO TETRAHIDRATADO,13446-34-9,Compuestos de manganeso,ESTANTE MADERA GRANDE,NULL,~1/2; 100 g,100 g,Mediano
+Mn-01,CLORURO DE MANGANESO TETRAHIDRATADO,13446-34-9,Compuestos de manganeso,ESTANTE MADERA GRANDE,NULL,<= 1/2; 100 g,100 g,Mediano
+Mn-02,SULFATO DE MANGANESO MONOHIDRATADO,10034-96-5,Compuestos de manganeso,ESTANTE MADERA GRANDE,NULL,~1/5; 1 kg,1 kg,Muy grande
+Mo-01,ACIDO FOSFOMOLIBDICO,51429-74-4,Compuestos de molibdeno,ESTANTE MADERA GRANDE,NULL,~1/3; 25 g,25 g,Pequeño
+N-10,DI-TERC-BUTILDICARBONATO,24424-99-5,Nevera,NEVERA,NULL,>1/2; 100 g,100 g,Mediano
+N-11,ANHIDRIDO ACETICO,108-24-7,Nevera,NEVERA,NULL,1 L,1 L,Grande
+N-11,ANHIDRIDO ACETICO,108-24-7,Nevera,NEVERA,NULL,1 L,1 L,Grande
+N-12,TRI-O-TOLUILFOSFINA,6163-58-2,Nevera,NEVERA,El frasco no tiene etiquetas oficiales.,10 g,10 g,Pequeño
+N-13,2-PIRIDINCARBALDEHIDO,1121-60-4,Nevera,NEVERA,La etiqueta del frasco se encuentra sucia.,~1/2; 50 mL,50 mL,Mediano
+N-14,2-BROMOACETOFENONA,70-11-1,Nevera,NEVERA,NULL,<=1/2; 25 g,25 g,Pequeño-medio
+N-15,N-BROMOSUCCINIMIDA,128-08-5,Nevera,NEVERA,NULL,>= 2/3; 250 g,250 g,Grande
+N-15,N-BROMOSUCCINIMIDA,128-08-5,Nevera,NEVERA,NULL,<1/4; 250 g,250 g,Grande
+N-16,CLOROMETIL-METIL ETER,107-30-2,Nevera,NEVERA,NULL,<1/25; 25 g,25 g,Pequeño
+N-17,HEXAFLUOROFOSFATO DE 1-BUTIL-3-METILIMIDAZOLIO,99-021-1,Nevera,NEVERA,NULL,<1/50; 50 g,50 g,Pequeño
+N-19,DAMINOZIDA,1596-84-5,Nevera,NEVERA,NULL,>= 5/6; 25 g,25 g,Pequeño
+N-19,DAMINOZIDA,1596-84-5,Nevera,NEVERA,NULL,~1/3; 25 g,25 g,Pequeño
+N-19,DAMINOZIDA,1596-84-5,Nevera,NEVERA,NULL,>= 4/5; 25 g,25 g,Pequeño
+N-19,DAMINOZIDA,1596-84-5,Nevera,NEVERA,NULL,>3/4; 25 g,25 g,Pequeño
+N-2,ESCUALENO,111-02-4*,Nevera,NEVERA,NULL,>1/3; 100 g,100 g,Medio-grande
+N-2,ESCUALENO,111-02-4*,Nevera,NEVERA,NULL,~1/2; 500 g,500 g,Grande
+N-20,"4,4-DIBROMOBENZIL",35578-47-3,Nevera,NEVERA,El frasco se encuentra sin abrir.,10 g,10 g,Pequeño
+N-21,1-BROMO-4-TERBUTILBENCENO,3972-65-4,Nevera,NEVERA,NULL,>=1/3; 5 mL,5 mL,Pequeño-medio
+N-22,CLORODIFENILFOSFINA,1079-66-9,Nevera,NEVERA,NULL,>1/3; 25 mL,25 mL,Pequeño
+N-23,2-TIOFENCARBALDEHIDO,98-03-3,Nevera,NEVERA,NULL,<= 1/4; 20 mL,20 mL,Mediano
+N-24,TERC-BUTILDIMETIL CLORO SILANO,18162-48-6,Nevera,NEVERA,NULL,<1/5; 25 g,25 g,Pequeño-medio
+N-24,TERC-BUTILDIMETIL CLORO SILANO,18162-48-6,Nevera,NEVERA,NULL,25 g,25 g,Pequeño-medio
+N-25,CLORURO DE TRIMETILSILANO,75-77-4,Nevera,NEVERA,Frasco ámbar sin etiquetas.,<1/3; 15 mL,15 mL,Pequeño-medio
+N-26,"TETRACLORHIDRATO DE 1,2,4,5-TETRAAMINOBENCENO",4506-66-5,Nevera,NEVERA,El frasco no. 6 está re-envasado sin etiquetas oficiales.,1 g,1 g,Muy pequeño
+N-26,"TETRACLORHIDRATO DE 1,2,4,5-TETRAAMINOBENCENO",4506-66-5,Nevera,NEVERA,El frasco no. 6 está re-envasado sin etiquetas oficiales.,1 g,1 g,Muy pequeño
+N-26,"TETRACLORHIDRATO DE 1,2,4,5-TETRAAMINOBENCENO",4506-66-5,Nevera,NEVERA,El frasco no. 6 está re-envasado sin etiquetas oficiales.,1 g,1 g,Muy pequeño
+N-26,"TETRACLORHIDRATO DE 1,2,4,5-TETRAAMINOBENCENO",4506-66-5,Nevera,NEVERA,El frasco no. 6 está re-envasado sin etiquetas oficiales.,1 g,1 g,Muy pequeño
+N-26,"TETRACLORHIDRATO DE 1,2,4,5-TETRAAMINOBENCENO",4506-66-5,Nevera,NEVERA,El frasco no. 6 está re-envasado sin etiquetas oficiales.,1 g,1 g,Muy pequeño
+N-27, 1-BUTIL-4-METILPIRIDINIO TETRAFLUOROBORATO,343952-33-0,Nevera,NEVERA,NULL,20 mL,20 mL,Pequeño
+N-28,CLORURO DE ACETILO,75-36-5,Nevera,NEVERA,"Frasco no .2 empacado en una lata grande con exterior oxidado, dicho frasco nuevo fue retirado de la lata",1 L,1 L,Grande
+N-28,CLORURO DE ACETILO,75-36-5,Nevera,NEVERA,"Frasco no .2 empacado en una lata grande con exterior oxidado, dicho frasco nuevo fue retirado de la lata",<1/50; 100 mL,100 mL,Mediano
+N-29,"3,4-DIBROMOTIOFENO",3140-92-9,Nevera,NEVERA,Re-envasado en un frasco ámbar sin etiquetas oficiales.,<= 1/5; 5 mL,5 mL,Pequeño
+N-3,BROMO,7726-95-6,Nevera,NEVERA,"Los frascos no. 1 y 3 tienen las etiquetas deterioradas, el frasco no. 2 está empacado en una lata con el exterior oxidado.",NULL,NULL,Medio-grande
+N-3,BROMO,7726-95-6,Nevera,NEVERA,"Los frascos no. 1 y 3 tienen las etiquetas deterioradas, el frasco no. 2 está empacado en una lata con el exterior oxidado.",NULL,NULL,Medio-grande
+N-3,BROMO,7726-95-6,Nevera,NEVERA,"Los frascos no. 1 y 3 tienen las etiquetas deterioradas, el frasco no. 2 está empacado en una lata con el exterior oxidado.",250 mL,250 mL,Grande
+N-30,INDENO,95-13-6,Nevera,NEVERA,Frasco con etiquetas dañadas.,>1/3; 10 mL,10 mL,Mediano
+N-31,1-BROMO-3-CLOROBENCENO,108-37-2,Nevera,NEVERA,Frasco de reactivo con etiquetas dañadas.,<1/5; 5 mL,5 mL,Mediano
+N-32,"2,3,4,5-TETRABROMOTIOFENO",3958-03-0,Nevera,NEVERA,Envasado en frasco de alimentos sin etiquetas.,NULL,10 g,Mediano
+N-34,TIOFENO,110-02-1,Nevera,NEVERA,NULL,<1/3; 500 g,500 g,Grande
+N-35,DIBENCILFOSFITO,26444-49-5,Nevera,NEVERA,NULL,<= 1/3; 5 g,5 g,Muy pequeño
+N-37,L-PROLINA,15761-39-4,Nevera,NEVERA,NULL,<= 1/20; 1 g,1 g,Muy pequeño
+N-38,4-ACETOXIESTIRENO,2628-16-2,Nevera,NEVERA,NULL,< 1/3; 25 mL,25 mL,Pequeño
+N-39,ESTIRENO,100-42-5,Nevera,NEVERA,NULL,>= 5/6; 4 L,4 L,Gigante
+N-39,ESTIRENO,100-42-5,Nevera,NEVERA,NULL,~1/2; 100 mL,100 mL,Mediano
+N-4,BROMURO DE BENCILO,100-39-0,Nevera,NEVERA,"El frasco se encuentra sin abrir, dentro de una lata sellada.",100 g,100 g,Mediano
+N-40,"2,5-DIYODOTIOFENO",625-88-7,Nevera,NEVERA,Uno de los frascos tenía la etiqueta X-42 (se tiene que remover).,~3/4; 5 g,5 g,Pequeño
+N-40,"2,5-DIYODOTIOFENO",625-88-7,Nevera,NEVERA,Uno de los frascos tenía la etiqueta X-42 (se tiene que remover).,5 g,5 g,Pequeño
+N-41,2-YODOTIOFENO,3437-95-4,Nevera,NEVERA,NULL,< 1/3; 25 g,25 g,Mediano
+N-43,BENZONITRILO,100-47-0,Nevera,NEVERA,NULL,~ 4/5; 100 mL,100 mL,Mediano
+N-44,SOLUCION BROMURO ETILMAGNESIO EN THF,925-90-6,Nevera,NEVERA,"Frasco sin destapar, está empacado en una lata sellada con exterior oxidado.",100 mL,100 mL,Mediano
+N-45,PROPIONITRILO,107-12-0,Nevera,NEVERA,NULL,>= 2/3; 100 mL,100 mL,Mediano
+N-46,DIISOBUTILALUMINIO HIDRURO 1M EN HEXANO,1191-15-7,Nevera,NEVERA,NULL,250 mL,250 mL,Medio-grande
+N-47,ACIDO 3-CLOROPEROXIBENZOICO,937-14-4,Nevera,NEVERA,NULL,>= 1/2; 100 g,100 g,Mediano
+N-47,ACIDO 3-CLOROPEROXIBENZOICO,937-14-4,Nevera,NEVERA,NULL,100 g,100 g,Medio-grande
+N-49,ACIDO TRIDECANOICO,544-63-8,Nevera,NEVERA,NULL,~4/5; 25 g,25 g,Mediano
+N-5,CLORURO DE TIONILO,07-09-19,Nevera,NEVERA,NULL,>= 4/5; 1 L,1 L,Grande
+N-50,3-BROMOANISOL,2398-37-0,Nevera,NEVERA,NULL,<1/3; 25 g,25 g,Mediano
+N-51,4-CLOROESTIRENO,1073-67-2,Nevera,NEVERA,NULL,>= 1/3; 10 g,10 g,Mediano
+N-52,ACIDO ACRILICO,79-10-7,Nevera,NEVERA,Las etiquetas del frasco están deterioradas.,500 g,500 g,Grande
+N-52,ACIDO ACRILICO,79-10-7,Nevera,NEVERA,Las etiquetas del frasco están deterioradas.,~1/20; 100 mL,100 mL,Mediano
+N-53,DL-LACTIDA,95-96-5,Nevera,NEVERA,NULL,25 g,25 g,Pequeño-medio
+N-54,YODOMETANO,74-88-4,Nevera,NEVERA,"Frasco sin destapar, está empacado en una lata sellada con exterior oxidado.",50 mL,50 mL,Mediano
+N-56,n-BUTIL METACRILATO,97-88-1,Nevera,NEVERA,NULL,>= 1/3; 500 mL,500 mL,Grande
+N-56,n-BUTIL METACRILATO,97-88-1,Nevera,NEVERA,NULL,100 mL,100 mL,Grande
+N-57,n-BUTIL ACRILATO,141-32-2*,Nevera,NEVERA,NULL,<1/2; 500 mL,500 mL,Grande
+N-58,METILMETACRILATO,80-62-6,Nevera,NEVERA,NULL,<= 1/2; 200 mL,200 mL,Medio-grande
+N-58,METILMETACRILATO,80-62-6,Nevera,NEVERA,NULL,~3/4; 50 mL,50 mL,Pequeño
+N-58,METILMETACRILATO,80-62-6,Nevera,NEVERA,NULL,>1/2; 500 mL,500 mL,Grande
+N-58,METILMETACRILATO,80-62-6,Nevera,NEVERA,NULL,4 kg,4 kg,Gigante
+N-59,2-(DIMETILAMINO)ETIL METACRILATO,2867-47-2,Nevera,NEVERA,NULL,>= 4/5; 100 mL,100 mL,Mediano
+N-6,4-VINILPIRIDINA,100-43-6,Nevera,NEVERA,"El frasco está empacado en una bolsa con etiquetas, la bolsa se encuentra sucia.",>1/2; 100 mL,100 mL,Mediano
+N-60,2-BROMOISOBUTIRIL BROMURO,20769-85-1,Nevera,NEVERA,El frasco no. 5 está sin destapar dentro de una bolsa resellabe con etiquetas.,< 1/2; 100 g,100 g,Mediano
+N-60,2-BROMOISOBUTIRIL BROMURO,20769-85-1,Nevera,NEVERA,El frasco no. 5 está sin destapar dentro de una bolsa resellabe con etiquetas.,~2/3; 100 g,100 g,Mediano
+N-60,2-BROMOISOBUTIRIL BROMURO,20769-85-1,Nevera,NEVERA,El frasco no. 5 está sin destapar dentro de una bolsa resellabe con etiquetas.,>= 1/2; 100 g,100 g,Mediano
+N-61,DECANAL,112-31-2,Nevera,NEVERA,NULL,20 g,20 g,Pequeño-medio
+N-61,DECANAL,112-31-2,Nevera,NEVERA,NULL,~7/8; 500 mL,500 mL,Grande
+N-62, BROMOACETALDEHIDO DIETIL ACETAL,2032-35-1,Nevera,NEVERA,NULL,> 1/2; 10 g,10 g,Pequeño
+N-63,(S)-(-) LIMONENO,5989-54-8,Nevera,NEVERA,NULL,~1/4; 50 g,50 g,Mediano
+N-64,3-(TRIMETOXISILIL)PROPIL METACRILATO,2530-85-0,Nevera,NEVERA,NULL,>= 1/3; 100 mL,100 mL,Mediano
+N-65,"N,N-DIISOPROPILCARBODIIMIDA",693-13-0,Nevera,NEVERA,NULL,>1/3; 25 mL,25 mL,Mediano
+N-65,"N,N-DIISOPROPILCARBODIIMIDA",693-13-0,Nevera,NEVERA,NULL,>1/4; 100 g,100 g,Medio-grande
+N-67,ACRILATO LAURILO,2156-97-0,Nevera,NEVERA,NULL,~1/3; 500 mL,500 mL,Grande
+N-7,"n-BUTILITIO 2,5 M EN HEXANO",109-72-8,Nevera,NEVERA,"Los frascos están empacados en una caja protectora, este reactivo es de mucho cuidado para su manipulación.",<1/4; 25 mL,25 mL,Pequeño
+N-7,"n-BUTILITIO 2,5 M EN HEXANO",109-72-8,Nevera,NEVERA,"Los frascos están empacados en una caja protectora, este reactivo es de mucho cuidado para su manipulación.",25 mL,25mL,Pequeño
+N-7,"n-BUTILITIO 2,5 M EN HEXANO",109-72-8,Nevera,NEVERA,"Los frascos están empacados en una caja protectora, este reactivo es de mucho cuidado para su manipulación.",25 mL,25mL,Pequeño
+N-7,"n-BUTILITIO 2,5 M EN HEXANO",109-72-8,Nevera,NEVERA,"Los frascos están empacados en una caja protectora, este reactivo es de mucho cuidado para su manipulación.",25 mL,25mL,Pequeño
+N-71,ACIDO METACRILICO,79-41-4*,Nevera,NEVERA,NULL,<= 1/3; 500 g,500 g,Grande
+N-72,4-BROMOESTIRENO,2039-82-9,Nevera,NEVERA,NULL,~1/2; 10 g,10 g,Pequeño
+N-73,"3,4-ETILENDIOXITIOFENO",126213-50-1,Nevera,NEVERA,NULL,> 1/2; 10 g,10 g,Pequeño
+N-8,4-TOLUALDEHIDO,104-87-0,Nevera,NEVERA,NULL,>= 1/2; 250 mL,250 mL,Grande
+N-9,ESCUALANO,111-01-3,Nevera,NEVERA,NULL,<= 1/5; 100 g,100 g,Medio-grande
+N-9,ESCUALANO,111-01-3,Nevera,NEVERA,NULL,<1/2; 100 g,100 g,Medio-grande
+N-99,SOLUCION BUFFER PATRON pH 7.00,NULL,Nevera,NEVERA,NULL,35 mL,35 mL,Mediano
+N-99,SOLUCION BUFFER PATRON pH 7.00,NULL,Nevera,NEVERA,NULL,35 mL,35 mL,Mediano
+Na-01,CARBONATO DE SODIO ANHIDRO,497-19-8,Compuestos de sodio,ESTANTE MADERA GRANDE,"Este reactivo es de mayor pureza, comparado con Na-08. El contenido del frasco 5 tiene aspecto de haberse contaminado, ya que el reactivo
+parece una pasta sólida y rígida.",>= 1/4; 500 g,500 g,Muy grande
+Na-01,CARBONATO DE SODIO ANHIDRO,497-19-8,Compuestos de sodio,ESTANTE MADERA GRANDE,"Este reactivo es de mayor pureza, comparado con Na-08. El contenido del frasco 5 tiene aspecto de haberse contaminado, ya que el reactivo
+parece una pasta sólida y rígida.",~4/5; 500 g,500 g,Muy grande
+Na-01,CARBONATO DE SODIO ANHIDRO,497-19-8,Compuestos de sodio,ESTANTE MADERA GRANDE,"Este reactivo es de mayor pureza, comparado con Na-08. El contenido del frasco 5 tiene aspecto de haberse contaminado, ya que el reactivo
+parece una pasta sólida y rígida.",~3/4; 1 kg,1 kg,Muy grande
+Na-01,CARBONATO DE SODIO ANHIDRO,497-19-8,Compuestos de sodio,ESTANTE MADERA GRANDE,"Este reactivo es de mayor pureza, comparado con Na-08. El contenido del frasco 5 tiene aspecto de haberse contaminado, ya que el reactivo
+parece una pasta sólida y rígida.",~2/3; 1 kg,1 kg,Muy grande
+Na-01,CARBONATO DE SODIO ANHIDRO,497-19-8,Compuestos de sodio,ESTANTE MADERA GRANDE,"Este reactivo es de mayor pureza, comparado con Na-08. El contenido del frasco 5 tiene aspecto de haberse contaminado, ya que el reactivo
+parece una pasta sólida y rígida.",500 g,500 g,Muy grande 
+Na-02,ACETATO DE SODIO,127-09-3,Compuestos de sodio,ESTANTE MADERA GRANDE,Los frascos 1 y 2 no tienen etiquetas.,>3/4; 300 g,300 g,Muy grande
+Na-02,ACETATO DE SODIO,127-09-3,Compuestos de sodio,ESTANTE MADERA GRANDE,Los frascos 1 y 2 no tienen etiquetas.,<1/5; 50 g,50 g,Mediano
+Na-02,ACETATO DE SODIO,127-09-3,Compuestos de sodio,ESTANTE MADERA GRANDE,Los frascos 1 y 2 no tienen etiquetas.,>2/3; 3 kg,3 kg,Gigante
+Na-04,SULFATO DE SODIO,7757-82-6,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~1/3; 500 g,500 g,Grande
+Na-05,SULFATO DE SODIO ANHIDRO,7757-82-6*,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~2/3; 500 g,500 g,Grande
+Na-06,SULFITO DE SODIO,7757-83-7,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,<1/2; 500 g,500 g,Grande
+Na-07,BISULFITO DE SODIO,7631-90-5,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~1/2; 1 kg,1 kg,Grande
+Na-08,CARBONATO DE SODIO,497-19-8*,Compuestos de sodio,ESTANTE MADERA GRANDE,El frasco 1 no tiene etiqueta.,~1/50; 1 kg,1 kg,Grande
+Na-08,CARBONATO DE SODIO,497-19-8*,Compuestos de sodio,ESTANTE MADERA GRANDE,El frasco 1 no tiene etiqueta.,>1/2; 1 kg,1 kg,Grande 
+Na-09,BICARBONATO DE SODIO,144-55-8,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,>3/4; 1 kg,1 kg,Muy grande
+Na-10,HIDROXIDO DE SODIO,1310-73-2,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~1/10; 1 kg,1 kg,Muy grande
+Na-11,ORTOFOSFATO DE SODIO,10049-21-5,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,500 g,500 g,Grande
+Na-12,CLORURO DE SODIO,7647-14-5,Compuestos de sodio,ESTANTE MADERA GRANDE,La pureza del reactivo en el frasco 2 es de carácter analítico (99.5% pureza).,~1/25; 1 kg,1 kg,Muy grande
+Na-12,CLORURO DE SODIO,7647-14-5,Compuestos de sodio,ESTANTE MADERA GRANDE,La pureza del reactivo en el frasco 2 es de carácter analítico (99.5% pureza).,1 kg,1 kg,Grande
+Na-13,DITIONITO DE SODIO,7775-14-6,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~2/3; 400 g,400 g,Medio-grande
+Na-14,YODURO DE SODIO,7681-82-5,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~3/4; 50 g,50 g,Pequeño-medio
+Na-15,DIETILDITIOCARBAMATO DE SODIO, 148-18-5,Compuestos de sodio,NEVERA,NULL,NULL,100 g,Mediano
+Na-16,DICROMATO DE SODIO,10588-01-9,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~1/4; 150 g,150 g,Medio-grande
+Na-17,METABISULFITO DE SODIO,7681-57-4,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~4/5; 1 lb,1 lb,Grande
+Na-18,WOLFRAMATO DE SODIO,10213-10-2,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,100 g,100 g,Pequeño-medio
+Na-19,TETRAFLUOROBORATO DE SODIO,13755-29-8,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~1/3; 250 g,250 g,Grande
+Na-20,BORATO DE SODIO,1303-96-4,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,>4/5; 1 lb,1 lb,Grande
+Na-22,SALICILATO DE SODIO,54-21-7,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~1/2; 300 g,300 g,Muy grande
+Na-23,TIOSULFATO DE SODIO,7772-98-7,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~1/4; 1 lb,1 lb,Grande
+Na-23,TIOSULFATO DE SODIO,7772-98-7,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,>1/3; 1 kg,1 kg,Muy grande
+Na-24,METAPERYODATO DE SODIO,7790-28-5,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~4/5; 100 g,100 g,Pequeño-medio
+Na-24,METAPERYODATO DE SODIO,7790-28-5,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~4/5; 100 g,100 g,Pequeño-medio
+Na-25,BROMATO DE SODIO,7789-38-0,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,500 g,500 g,Pequeño-medio
+Na-26,PERSULFATO DE SODIO,7775-27-1,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,500 g,500 g,Grande
+Na-27,BOROHIDRURO DE SODIO,16940-66-2,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,>=3/4; 100 g,100 g,Medio-grande
+Na-27,BOROHIDRURO DE SODIO,16940-66-2,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~1/4; 100 g,100 g,Medio-grande
+Na-27,BOROHIDRURO DE SODIO,16940-66-2,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~8/10; 100 g,100 g,Grande 
+Na-27,BOROHIDRURO DE SODIO,16940-66-2,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,>3/4; 100 g,100 g,Medio-grande
+Na-28,SODIO METALICO,7440-23-5,Compuestos de sodio,ESTANTE MADERA GRANDE,El frasco 1 parece estar vacío y no tiene rótulos.,~1/5; 100 g,100 g,Grande
+Na-28,SODIO METALICO,7440-23-5,Compuestos de sodio,ESTANTE MADERA GRANDE,El frasco 1 parece estar vacío y no tiene rótulos.,0 g,100 g,Grande
+Na-28,SODIO METALICO,7440-23-5,Compuestos de sodio,ESTANTE MADERA GRANDE,El frasco 1 parece estar vacío y no tiene rótulos.,~1/100; 100 g,100 g,Grande
+Na-29,NITRITO DE SODIO,7632-00-0,Compuestos de sodio,ESTANTE MADERA GRANDE,El frasco 3 es un frasco de vidrio con apariencia de recipiente de residuos.,~3/4; 500 g,500 g,Muy grande
+Na-29,NITRITO DE SODIO,7632-00-0,Compuestos de sodio,ESTANTE MADERA GRANDE,El frasco 3 es un frasco de vidrio con apariencia de recipiente de residuos.,~3/4; 500 g,500 g,Grande
+Na-29,NITRITO DE SODIO,7632-00-0,Compuestos de sodio,ESTANTE MADERA GRANDE,El frasco 3 es un frasco de vidrio con apariencia de recipiente de residuos.,~2/3; 1 kg,1 kg,Muy grande
+Na-30,ARSENITO DE SODIO,7784-46-5,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,500 g,500 g,Grande
+Na-31,CAL SODADA,8006-28-8,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,500 g,500 g,Grande
+Na-33,NITRATO DE SODIO,7631-99-4,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~4/5; 100 g,100 g,Mediano
+Na-34,FLUORURO DE SODIO,7681-49-4,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~1/2; 200 g,200 g,Medio-grande
+Na-35,TETRABORATO DE SODIO,1330-43-4,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,>4/5; 500 g,500 g,Grande
+Na-36,HIDRURO DE SODIO,7646-69-7,Compuestos de sodio,ESTANTE MADERA GRANDE,Dispersión al 57-63% en aceite mineral.,75 g,100 g,Medio-grande
+Na-37,CLOROACETATO DE SODIO,3926-62-3,Compuestos de sodio,ESTANTE MADERA GRANDE,"Ningún frasco tiene rótulos claros, están en frascos de muestra.",15 g,40 g,Pequeño-medio
+Na-37,CLOROACETATO DE SODIO,3926-62-3,Compuestos de sodio,ESTANTE MADERA GRANDE,"Ningún frasco tiene rótulos claros, están en frascos de muestra.",20 g,30 g,Pequeño
+Na-38,PERCLORATO DE SODIO HIDRATO,207683-20-3,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~2/3; 500 g,500 g,Medio-grande
+Na-39,DIHIDROGENOFOSFATO DE SODIO DIHIDRATADO,10028-24-7,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,>4/5; 1 kg,1 kg,Grande
+Na-39,DIHIDROGENOFOSFATO DE SODIO DIHIDRATADO,10028-24-7,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,>4/5; 1 kg,1 kg,Grande
+Na-40,LAURILSULFATO DE SODIO ,151-21-3,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~4/5; 500 g,500 g,Grande
+Na-40,LAURILSULFATO DE SODIO ,151-21-3,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~4/5; 500 g,500 g,Grande
+Na-40,LAURILSULFATO DE SODIO ,151-21-3,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~4/5; 90 g,90 g,Mediano
+Na-42,AZIDA DE SODIO,26628-22-8,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL, 80 g,80 g,Medio-grande
+Na-43,BROMURO DE SODIO,7647-15-6,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,250 g,250 g,Grande
+Na-45,DIHIDROGENOFOSFATO DE SODIO ANHIDRO,7558-79-4,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,>3/4; 500 g,500 g,Muy grande
+Na-45,DIHIDROGENOFOSFATO DE SODIO ANHIDRO,7558-79-4,Compuestos de sodio,ESTANTE MADERA GRANDE,NULL,~3/4; 500 g,500 g,Muy grande
+Na-46,CLORITO DE SODIO,7758-19-2,Compuestos de sodio,ESTANTE MADERA GRANDE,El reactivo se encuentra en una disolución al 25% en agua.,1 L,1 L,Muy grande
+NH4-01,SULFATO DE AMONIO,7783-20-2,Sales de amonio,ESTANTE MADERA GRANDE,NULL,~2/3; 800 g,800 g,Muy grande
+NH4-01,SULFATO DE AMONIO,7783-20-2,Sales de amonio,ESTANTE MADERA GRANDE,NULL,~2/3; 100 g,100 g,Mediano
+NH4-02,ACETATO DE AMONIO,631-61-8,Sales de amonio,ESTANTE MADERA GRANDE,NULL,<= 1/4; 500 g,500 g,Mediano
+NH4-02,ACETATO DE AMONIO,631-61-8,Sales de amonio,ESTANTE MADERA GRANDE,NULL,1 kg,1 kg,Muy grande
+NH4-04,CLORURO DE AMONIO,12125-02-9,Sales de amonio,ESTANTE MADERA GRANDE,NULL,~1/3; 1 kg,1 kg,Muy grande
+NH4-07,SULFOCIANURO AMONICO,1762-95-4,Sales de amonio,ESTANTE MADERA GRANDE,NULL,~1/2; 150 g,150 g,Mediano
+NH4-08,NITRATO CERICO AMONICO,16774-21-3,Sales de amonio,ESTANTE MADERA GRANDE,NULL,<1/5; 25 g,25 g,Pequeño
+NH4-09,FLUORURO DE TETRABUTILAMONIO,87749-50-6,Sales de amonio,ESTANTE MADERA GRANDE,NULL,100 g,100 g,Grande
+NH4-10,PEROXODISULFATO AMONICO,7727-54-0,Sales de amonio,ESTANTE MADERA GRANDE,NULL,100 g,100 g,Grande
+Ni-01,CATALIZADOR DE NIQUEL-RANEY,12635-27-7,Compuestos de niquel,ESTANTE MADERA GRANDE,NULL,10 g,20 g,Pequeño-medio
+Ni-02,SULFATO DE NIQUEL(II),7758-98-7,Compuestos de niquel,ESTANTE MADERA GRANDE,NULL,50 g,50 g,Pequeño
+Ni-02,SULFATO DE NIQUEL(II),7758-98-7,Compuestos de niquel,ESTANTE MADERA GRANDE,NULL,50 g,50 g,Pequeño
+Ni-03,"2,4-PENTANODIONATO DE NIQUEL(II)",54-64-8,Compuestos de niquel,ESTANTE MADERA GRANDE,NULL,~3/4; 25 g,25 g,Mediano
+Ni-04,CLORURO DE NIQUEL HEXAHIDRATADO,7791-20-0,Compuestos de niquel,ESTANTE MADERA GRANDE,NULL,~1/3; 50 g,50 g,Mediano
+Ni-04,CLORURO DE NIQUEL HEXAHIDRATADO,7791-20-0,Compuestos de niquel,ESTANTE MADERA GRANDE,NULL,~1/2; 50 g,50 g,Mediano
+O-10,4-BROMOFENOL,106-41-2,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,<3/4; 100 g,100 g,Mediano
+O-11,DIETILENGLICOL MONOMETIL ETER,111-77-3,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,>= 1/2; 500 mL,500 mL,Muy grande
+O-12,4-BROMOTIOFENOL,106-53-6,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,~1/4; 5 g,5 g,Pequeño
+O-13,DICLOROMETIL METIL ETER,03-02-85,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,~3/4; 25 mL,25 mL,Pequeño
+O-14,2-NITROBENCIL ALCOHOL,612-25-9,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,~3/4; 25 g,25 g,Pequeño
+O-15,ALMIDON SOLUBLE,9005-25-8,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,>4/5; 1 kg,1 kg,Grande
+O-16,1-NAFTOL BENZEINA,145-50-6,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,5 g,5 g,Muy pequeño
+O-17,PIROGALOL,87-66-1,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,~2/3; 500 g,500 g,Muy grande
+O-18,"2,4,6-TRICLOROFENOL",88-06-2,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,<2/3; 1 kg,1 kg,Muy grande
+O-18,"2,4,6-TRICLOROFENOL",88-06-2,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,~1/2; 1 kg,1 kg,Muy grande
+O-19,1-NAFTOL,90-15-3,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,<2/3; 250 g,250 g,Grande
+O-2,MONOOLEATO DE SORBITAN,9005-65-6,Alcoholes y fenoles,GAVETA BAJO ROTAVAPOR,NULL,>= 1/2; 1 L,1 L,Grande
+O-20,2-CLOROETANOL,107-07-3,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,>2/3; 250 mL,250 mL,Medio-grande
+O-21,5-ISOPROPIL-2-METILFENOL (CARVACROL),499-75-2 ,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,10 g,10 g,Grande
+O-22,2-CLOROFENOL,95-57-8,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,~2/3; 500 mL,500 mL,Grande
+O-23,FURFURIL ALCOHOL,98-00-0 ,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,500 mL,500 mL,Grande
+O-24,FLUOROGLUCINOL,108-73-6,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,<1/4; 100 g,100 g,Grande
+O-25,BENZOFURANO,271-89-6,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,5 g,5 g,Pequeño
+O-26,TIMOL,89-83-8 ,Alcoholes y fenoles,ESTANTE MADERA GRANDE,Envasado en un beaker con tapa de rosca.,~1/2; 20 g,20 g,Mediano
+O-27,"1,4-DIMETOXIBENCENO",150-78-7 ,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,<1/10; 100 g,100 g,Mediano
+O-27,"1,4-DIMETOXIBENCENO",150-78-7 ,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,~2/3; 250 g,250 g,Grande
+O-27,"1,4-DIMETOXIBENCENO",150-78-7 ,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,~2/3; 250 g,250 g,Grande
+O-28,3-METILBUTANOL,123-51-3,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,1 L,1 L,Muy grande
+O-29,PEG 600,25322-68-3*,Alcoholes y fenoles,ESTANTE MADERA GRANDE,Recipiente vacío en frasco ámbar sin etiquetas.,0 g,10 mL,Mediano
+O-3,BUTIL VINIL ETER,111-34-2,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,~3/4; 100 mL,100 mL,Mediano
+O-30,BUTILHIDROXITOLUENO,128-37-0,Alcoholes y fenoles,ESTANTE MADERA GRANDE,Envasado en un frasco plástico de alimentos.,30 g,30 g,Mediano
+O-32,DIETILENGLICOL,111-46-6 ,Alcoholes y fenoles,ESTANTE MADERA GRANDE,Envasado en frasco ámbar sin etiquetas.,30 mL,30 mL,Mediano
+O-33,?-LACTOSA,63-42-3,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,~1/3; 500 g,500 g,Grande
+O-34,D(-)-MANITOL,69-65-8,Alcoholes y fenoles,ESTANTE MADERA GRANDE,El frasco 2 es un recipiente de conservas sin etiquetado.,~3/4; 100 g,100 g,Mediano
+O-34,D(-)-MANITOL,69-65-8,Alcoholes y fenoles,ESTANTE MADERA GRANDE,El frasco 2 es un recipiente de conservas sin etiquetado.,~2/3; 100 g,100 g,Grande
+O-34,D(-)-MANITOL,69-65-8,Alcoholes y fenoles,ESTANTE MADERA GRANDE,El frasco 2 es un recipiente de conservas sin etiquetado.,~2/3; 500 g,500 g,Grande
+O-35,D(+)-GLUCOSA,50-99-7,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,~1/2; 500 g,500 g,Grande
+O-36,SACAROSA,57-50-1,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,~1/3; 1 kg,1 kg,Grande
+O-38,"1,2-DIMETOXIBENCENO",91-16-7,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,>3/4; 100 g,100 g,Mediano
+O-39,PEG 6000,25322-68-3,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,1 kg ,1 kg,Muy grande
+O-40,GLICEROL,56-81-5,Alcoholes y fenoles,ESTANTE MADERA GRANDE,Tiene etiqueta NFPA.,<1/4; 1 L,1 L,Muy grande
+O-40,GLICEROL,56-81-5,Alcoholes y fenoles,ESTANTE MADERA GRANDE,Tiene etiqueta NFPA.,<1/2; 1 L,1 L,Grande
+O-41,"3,5-DIHIDROXITOLUENO-1-HIDRATO",6153-39-5,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,25 g,25 g,Pequeño-medio
+O-42,"1,3-PROPANODIOL",504-63-2,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,100 g,100 g,Mediano
+O-43,POLIVINILPIRROLIDONA,9003-39-8,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,100 g,100 g,Mediano
+O-44,D(+)-MANOSA,3458-28-4,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,~1/3; 25 g,25 g,Mediano
+O-45,"1,5-PENTANODIOL",111-29-5,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,100 g,100 g,Mediano
+O-46,TRIETILENGLICOL MONOMETIL ÉTER,112-35-6,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,500 mL,500 mL,Grande
+O-47,"1,4-BUTANODIOL",110-63-4,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,1 L,1 L,Grande 
+O-48,"2,5-DIBROMOHIDROQUINONA",14753-51-6,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,~1/3; 25 g,25 g,Mediano
+O-49,D(-)-SORBITOL,50-70-4,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,~2/3; 500 g,500 g,Grande
+O-5,CATECOL,120-80-9,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,>4/5; 500 g,500 g,Grande
+O-50,POLIFEN 641 LDPE,9002-88-4,Alcoholes y fenoles,ESTANTE MADERA GRANDE,Está reenvasado en un frasco que contenía el compuesto O-6.,NULL,NULL,Grande
+O-51,POLIETILENGLICOL MONOMETIL ETER Mn 750,9004-74-4,Alcoholes y fenoles,ESTANTE METALICO CASILLERO,NULL,<1/2; 500 g,500 g,Grande
+O-52,PEG METIL ETER Mn 2000,9004-74-4*,Alcoholes y fenoles,ESTANTE METALICO SIN LLAVE,NULL,>1/3; 250 g,250 g,Grande 
+O-53,PEG METIL ETER Mn 5000,9004-74-4**,Alcoholes y fenoles,ESTANTE METALICO SIN LLAVE,NULL,>= 1/4; 250 g,250 g,Grande
+O-54,ETILENO CARBONATO,96-49-1,Alcoholes y fenoles,ESTANTE METALICO SIN LLAVE,NULL,>5/6; 500 g,500 g,Grande
+O-55,ANHIDRIDO SUCCINICO,108-30-5,Alcoholes y fenoles,ESTANTE METALICO SIN LLAVE,NULL,<= 1/4; 50 g,50 g,Medio-grande
+O-56,CAPROLACTONA,502-44-3,Alcoholes y fenoles,ESTANTE METALICO SIN LLAVE,NULL,>1/3; 250 mL,250 mL,Grande
+O-57,PEG 2000,25322-68-3**,Alcoholes y fenoles,ESTANTE METALICO SIN LLAVE,NULL,>= 5/6; 1 kg,1 kg,Muy grande
+O-58,"1,3-DIHIDROXINAFTALENO",132-86-5,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,5 g,5 g,Muy pequeño
+O-6,ALCOHOL POLIVINILICO,9002-89-5,Alcoholes y fenoles,ESTANTE MADERA GRANDE,Baja viscosidad al 88% de hidrólisis.,500 g,500 g,Grande
+O-7,NONIL FENOL ETOXILADO,9016-45-9,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,80 g,80 g,Grande
+O-8,ETILENGLICOL MONOETIL ETER,110-80-5 ,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,~3/4; 1 kg,1 kg,Grande
+O-9,MALTOSA,69-79-4,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,~2/3; 500 g,500 g,Grande
+O-9,MALTOSA,69-79-4,Alcoholes y fenoles,ESTANTE MADERA GRANDE,NULL,>1/2; 500 g,500 g,Grande
+P-01,TRIFENILFOSFINA,603-35-0,Compuestos de fósforo,ESTANTE MADERA GRANDE,NULL,~1/6; 100 g,100 g,Medio-grande
+P-02,TRIFENILFOSFITO,101-02-0*,Compuestos de fósforo,ESTANTE METALICO BAJO LLAVE,NULL,~1/6; 500 g,500 g,Grande
+P-03,PENTACLORURO DE FOSFORO,10026-13-8,Compuestos de fósforo,ESTANTE MADERA GRANDE,NULL,~1/3; 100 g,100 g,Mediano
+P-04,PENTOXIDO DE FOSFORO,1314-56-3,Compuestos de fósforo,ESTANTE MADERA GRANDE,NULL,~1/3; 500 g,500 g,Grande
+Pb-01,CLORURO DE PLOMO,7758-95-4,Compuestos de plomo,ESTANTE MADERA GRANDE,NULL,~2/3; 100 g,100 g,Pequeño 
+Pt-01,ÁCIDO HEXACLOROPLATINICO(IV),18497-13-7,Compuestos de platino,ESTANTE MADERA GRANDE,"Hay muy poca cantidad, viene dentro de una bolsa sellable, está casi vacio.",<1/10; 1 g,1 g,Muy pequeño
+S-1,METANOL,67-56-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,2.5 L,2.5 L,Muy grande
+S-1,METANOL,67-56-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,1 L,1 L,Grande
+S-1,METANOL,67-56-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,4 L,4 L,Gigante
+S-1,METANOL,67-56-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,2.5 L,2.5 L,Grande
+S-1,METANOL,67-56-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,1 L,1 L,Grande
+S-1,METANOL,67-56-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,2.5 L,2.5 L,Muy grande
+S-1,METANOL,67-56-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,4 L,4 L,Gigante
+S-1,METANOL,67-56-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,2.5 L,2.5 L,Grande
+S-10,1-HEPTANOL,111-70-6,Solventes,GAVETA DE MADERA BAJO CABINA,Está envasado en un frasco de solvente usado y sin etiquetas.,10 mL,10 mL,Grande
+S-10,1-HEPTANOL,111-70-6,Solventes,GAVETA DE MADERA BAJO CABINA,Está envasado en un frasco de solvente usado y sin etiquetas.,10 mL,10 mL,Grande
+S-11,ACETONA,67-64-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,4 L,4 L,Muy grande
+S-11,ACETONA,67-64-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,1 L,1 L,Grande
+S-11,ACETONA,67-64-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,4 L,4 L,Muy grande
+S-11,ACETONA,67-64-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,1 L,1 L,Grande
+S-12,ACETATO DE ETILO,141-78-6,Solventes,GAVETA DE MADERA BAJO CABINA,Re-envasado de un frasco de dietil éter.,2.5 L,2.5 L,Grande
+S-12,ACETATO DE ETILO,141-78-6,Solventes,GAVETA DE MADERA BAJO CABINA,Re-envasado de un frasco de dietil éter.,2.5 L,2.5 L,Grande
+S-13,PEROXIDO DE HIDROGENO,7722-84-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,>5/6; 1 L,1 L,Grande
+S-13,PEROXIDO DE HIDROGENO,7722-84-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,5 L,5 L,Gigante
+S-13,PEROXIDO DE HIDROGENO,7722-84-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,5 L,5 L,Gigante
+S-13,PEROXIDO DE HIDROGENO,7722-84-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,<= 1/4; 1 L,1 L,Grande
+S-13,PEROXIDO DE HIDROGENO,7722-84-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,>5/6; 1 L,1 L,Grande
+S-13,PEROXIDO DE HIDROGENO,7722-84-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,<= 1/4; 1 L,1 L,Grande
+S-14,DIETILETER,60-29-7,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,~3/4; 1 L,1 L,Grande
+S-14,DIETILETER,60-29-7,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,>= 1/2; 5 L,5 L,Muy grande
+S-14,DIETILETER,60-29-7,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,>1/3; 4 L,4 L,Muy grande
+S-14,DIETILETER,60-29-7,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,>= 1/2; 5 L,5 L,Muy grande
+S-14,DIETILETER,60-29-7,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,>1/3; 4 L,4 L,Muy grande
+S-14,DIETILETER,60-29-7,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,~3/4; 1 L,1 L,Grande
+S-16,"1,4-DIOXANO",123-91-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,1 L,1 L,Grande
+S-16,"1,4-DIOXANO",123-91-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,>5/6; 1 L,1 L,Grande
+S-16,"1,4-DIOXANO",123-91-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,<1/3; 2.5 L,2.5 L,Grande
+S-16,"1,4-DIOXANO",123-91-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,1 L,1 L,Grande
+S-16,"1,4-DIOXANO",123-91-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,>5/6; 1 L,1 L,Grande
+S-16,"1,4-DIOXANO",123-91-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,<1/3; 2.5 L,2.5 L,Grande
+S-17,DIFENILETER,101-84-8,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,1 L,1 L,Grande
+S-17,DIFENILETER,101-84-8,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,1 L,1 L,Grande
+S-18,CLOROFORMO,67-66-3,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,<1/2; 2.5 L,2.5 L,Grande
+S-18,CLOROFORMO,67-66-3,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,<1/2; 2.5 L,2.5 L,Grande
+S-19,DICLOROMETANO,75-09-2,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,2.5 L,2.5 L,Muy grande
+S-19,DICLOROMETANO,75-09-2,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,2.5 L,2.5 L,Muy grande
+S-19,DICLOROMETANO,75-09-2,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,2.5 L,2.5 L,Grande
+S-19,DICLOROMETANO,75-09-2,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,2.5 L,2.5 L,Muy grande
+S-19,DICLOROMETANO,75-09-2,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,2.5 L,2.5 L,Muy grande
+S-19,DICLOROMETANO,75-09-2,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,2.5 L,2.5 L,Grande
+S-2,ISOPROPANOL,67-63-0,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,1.7 L,2.5 L,Grande
+S-2,ISOPROPANOL,67-63-0,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,1.7 L,2.5 L,Grande
+S-20,TETRACLORURO DE CARBONO,56-23-5,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,>2/3; 1 L,1 L,Grande
+S-20,TETRACLORURO DE CARBONO,56-23-5,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,>2/3; 1 L,1 L,Grande
+S-20,TETRACLORURO DE CARBONO,56-23-5,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,<= 1/3; 1 L,1 L,Grande
+S-20,TETRACLORURO DE CARBONO,56-23-5,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,<= 1/3; 1 L,1 L,Grande
+S-21,ETANOL,64-17-5,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,2 L,2 L,Grande
+S-21,ETANOL,64-17-5,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,2 L,2 L,Grande
+S-22,2-CLOROETANOL,107-07-3*,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,Sin etiquetas y envasado en un frasco ámbar.,100 mL,100 mL,Grande
+S-22,2-CLOROETANOL,107-07-3*,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,Sin etiquetas y envasado en un frasco ámbar.,100 mL,100 mL,Grande
+S-23,"1,2-DICLOROETANO",107-06-2,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,1 L,1 L,Grande
+S-23,"1,2-DICLOROETANO",107-06-2,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<= 1/3; 746 mL,746 mL,Grande
+S-23,"1,2-DICLOROETANO",107-06-2,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<= 1/3; 746 mL,746 mL,Grande
+S-23,"1,2-DICLOROETANO",107-06-2,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,1 L,1 L,Grande
+S-25,BENCENO,71-43-2,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,~1/3; 2.5 L,2.5 L,Muy grande
+S-25,BENCENO,71-43-2,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,~1/3; 2.5 L,2.5 L,Muy grande
+S-26,ISOOCTANO,540-84-1,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,>1/2; 2.5 L,2.5 L,Muy grande
+S-26,ISOOCTANO,540-84-1,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,>1/2; 2.5 L,2.5 L,Muy grande
+S-27,XILENOS,1330-20-7,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,Uno de los frascos está etiquetado como X-44.,>= 5/6; 1 L,1 L,Grande
+S-27,XILENOS,1330-20-7,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,Uno de los frascos está etiquetado como X-44.,1 L,1 L,Grande
+S-27,XILENOS,1330-20-7,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,Uno de los frascos está etiquetado como X-44.,1 L,1 L,Grande
+S-27,XILENOS,1330-20-7,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,Uno de los frascos está etiquetado como X-44.,>4/5; 2 L,2 L,Muy grande
+S-27,XILENOS,1330-20-7,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,Uno de los frascos está etiquetado como X-44.,>= 5/6; 1 L,1 L,Grande
+S-27,XILENOS,1330-20-7,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,Uno de los frascos está etiquetado como X-44.,>4/5; 2 L,2 L,Muy grande
+S-27,XILENOS,1330-20-7,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,Uno de los frascos está etiquetado como X-44.,1 L,1 L,Grande
+S-27,XILENOS,1330-20-7,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,Uno de los frascos está etiquetado como X-44.,1 L,1 L,Grande
+S-28,CICLOHEXANO,110-82-7,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<1/4; 1 L,1 L,Grande
+S-28,CICLOHEXANO,110-82-7,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<1/4; 2.5 L,2.5 L,Muy grande
+S-28,CICLOHEXANO,110-82-7,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<1/4; 1 L,1 L,Grande
+S-28,CICLOHEXANO,110-82-7,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<1/4; 2.5 L,2.5 L,Muy grande
+S-29,DIMETILFORMAMIDA,68-12-2,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,>5/6; 2.5 L,2.5 L,Muy grande
+S-29,DIMETILFORMAMIDA,68-12-2,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,>5/6; 2.5 L,2.5 L,Muy grande
+S-30,ETANOLAMINA,141-43-5*,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,1 L,1 L,Grande
+S-30,ETANOLAMINA,141-43-5*,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,1 L,1 L,Grande
+S-31,TRIETILAMINA,121-44-8,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,>2/3; 2.5 L,2.5 L,Muy grande
+S-31,TRIETILAMINA,121-44-8,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,>2/3; 2.5 L,2.5 L,Muy grande
+S-34,NITROBENCENO,98-95-3,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<1/2; 1 L,1 L,Grande
+S-34,NITROBENCENO,98-95-3,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<1/2; 1 L,1 L,Grande
+S-35,DIMETILSULFOXIDO,67-68-5,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<= 1/3; 1 L,1 L,Grande
+S-35,DIMETILSULFOXIDO,67-68-5,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<= 1/3; 1 L,1 L,Grande
+S-35,DIMETILSULFOXIDO,67-68-5,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,500 mL,500 mL,Grande
+S-35,DIMETILSULFOXIDO,67-68-5,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,500 mL,500 mL,Grande
+S-35,DIMETILSULFOXIDO,67-68-5,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<1/2; 2.5 L,2.5 L,Muy grande
+S-35,DIMETILSULFOXIDO,67-68-5,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<1/2; 2.5 L,2.5 L,Muy grande
+S-36,"N,N-DIMETILACETAMIDA",127-19-5,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<1/3; 1 L,1 L,Grande
+S-36,"N,N-DIMETILACETAMIDA",127-19-5,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,>1/3; 500 mL,500 mL,Grande
+S-36,"N,N-DIMETILACETAMIDA",127-19-5,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,>1/3; 500 mL,500 mL,Grande
+S-36,"N,N-DIMETILACETAMIDA",127-19-5,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<1/3; 1 L,1 L,Grande
+S-37,TOLUENO,108-88-3,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,2.5 L,2.5 L,Muy grande
+S-37,TOLUENO,108-88-3,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,2.5 L,2.5 L,Muy grande
+S-37,TOLUENO,108-88-3,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,5 L,5 L,Gigante
+S-37,TOLUENO,108-88-3,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,1 L,1 L,Grande
+S-37,TOLUENO,108-88-3,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,1 L,1 L,Grande
+S-37,TOLUENO,108-88-3,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,5 L,5 L,Gigante
+S-38,HEXANO,110-54-3,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,2.5 L,2.5 L,Muy grande
+S-38,HEXANO,110-54-3,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,2.5 L,2.5 L,Muy grande
+S-39,ACETONITRILO,75-05-8,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,4 L,4 L,Muy grande
+S-39,ACETONITRILO,75-05-8,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,4 L,4 L,Gigante
+S-39,ACETONITRILO,75-05-8,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,4 L,4 L,Muy grande
+S-39,ACETONITRILO,75-05-8,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,4 L,4 L,Muy grande
+S-39,ACETONITRILO,75-05-8,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,4 L,4 L,Gigante
+S-39,ACETONITRILO,75-05-8,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,4 L,4 L,Muy grande
+S-4,ALCOHOL ISOBUTILICO,78-83-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,>1/3; 750 mL,750 mL,Muy grande
+S-4,ALCOHOL ISOBUTILICO,78-83-1,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,>1/3; 750 mL,750 mL,Muy grande
+S-41,MESITILENO,108-67-8,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,500 mL,500 mL,Grande
+S-41,MESITILENO,108-67-8,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,500 mL,500 mL,Grande
+S-43,DIISOPROPILETER,108-20-3,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<= 1/3; 1 L,1 L,Grande
+S-43,DIISOPROPILETER,108-20-3,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,> 4/5; 1 L,1 L,Grande
+S-43,DIISOPROPILETER,108-20-3,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,> 4/5; 1 L,1 L,Grande
+S-43,DIISOPROPILETER,108-20-3,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<= 1/3; 1 L,1 L,Grande
+S-44,ANISOL,100-66-3,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,1 L,1 L,Grande
+S-44,ANISOL,100-66-3,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,1 L,1 L,Grande
+S-45,n-HEPTANO,142-82-5,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<1/5; 1 L,1 L,Grande
+S-45,n-HEPTANO,142-82-5,Solventes,GAVETA DE MADERA BAJO ROTAVAPOR,NULL,<1/5; 1 L,1 L,Grande
+S-5,2-METOXIETANOL,109-86-4,Solventes,GAVETA DE MADERA BAJO CABINA,Tiene etiqueta NFPA.,>1/3; 1 L,1 L,Grande
+S-5,2-METOXIETANOL,109-86-4,Solventes,GAVETA DE MADERA BAJO CABINA,Tiene etiqueta NFPA.,>1/3; 1 L,1 L,Grande
+S-7,1-PENTANOL,71-41-0,Solventes,GAVETA DE MADERA BAJO CABINA,Manifiesta haberse vencido en 12/2000.,1 L,1 L,Grande
+S-7,1-PENTANOL,71-41-0,Solventes,GAVETA DE MADERA BAJO CABINA,Manifiesta haberse vencido en 12/2000.,1 L,1 L,Grande
+S-9,1-BUTANOL,71-36-3,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,<=1/5; 2.5 L,2.5 L,Muy grande
+S-9,1-BUTANOL,71-36-3,Solventes,GAVETA DE MADERA BAJO CABINA,NULL,<=1/5; 2.5 L,2.5 L,Muy grande
+Sn-01,ESTAÑO PURO,7440-31-5,Compuestos de estaño,ESTANTE MADERA GRANDE,NULL,150 g,150 g,Pequeño
+Sn-02,CLORURO DE ESTAÑO(II),7772-99-8,Compuestos de estaño,ESTANTE MADERA GRANDE,NULL,>1/3; 1 kg,1 kg,Grande
+Sn-03,DICLORURO DE DIFENILESTAÑO,1135-99-5,Compuestos de estaño,ESTANTE MADERA GRANDE,Viene dentro de un empaque plástico sellado.,~1/4; 100 g,100 g,Medio-grande
+Sn-05,2-ETILHEXANOATO DE ESTAÑO(II),301-10-0,Compuestos de estaño,ESTANTE METALICO BAJO LLAVE,NULL,<= 1/3; 100 g,100 g,Mediano
+Th-01,NITRATO DE TORIO,13823-29-5,Compuestos de torio,ESTANTE MADERA GRANDE,NULL,~1/2; 100 g,100 g,Mediano
+Ti-01,DIOXIDO DE TITANIO, 13463-67-7,Compuestos de titanio,ESTANTE MADERA GRANDE,Frasco ámbar sin etiquetas.,50 g,50 g,Pequeño-medio
+Ti-02,OXIDO DE TITANIO (IV), 13463-67-7*,Compuestos de titanio,ESTANTE MADERA GRANDE,NULL,>= 1/5; 50 g,50 g,Grande
+Ti-03,OXOSULFATO DE TITANIO(IV),13825-74-6,Compuestos de titanio,ESTANTE MADERA GRANDE,NULL,<2/3; 500 g,500 g,Grande
+Tl-01,NITRATO DE TALIO,10102-45-1,Compuestos de talio,ESTANTE MADERA GRANDE,NULL,~1/2; 100 g,100 g,Mediano
+Tl-01,NITRATO DE TALIO,10102-45-1,Compuestos de talio,ESTANTE MADERA GRANDE,NULL,~1/3; 100 g,100 g,Mediano
+Tl-02,SULFATO DE TALIO,10031-59-1,Compuestos de talio,ESTANTE MADERA GRANDE,NULL,~1/3; 30 g,30 g,Muy pequeño
+U-01,ACETATO DE URANIO,541-09-3,Compuestos de uranio,ESTANTE MADERA GRANDE,NULL,>2/3; 200 g,200 g,Mediano
+V-01,MONOVANADATO DE AMONIO,7803-55-6,Compuestos de vanadio,ESTANTE MADERA GRANDE,NULL,100 g,100 g,Pequeño
+W-01,TUNGSTENO PURO,7440-33-7,Compuestos de tungsteno,ESTANTE MADERA GRANDE,NULL,100 g,100 g,Pequeño-medio
+X-1,DIBENZOTIOFENO,132-65-0,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~2/3; 50 g,50 g,Mediano
+X-1,DIBENZOTIOFENO,132-65-0,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,0.7 g,2 g,Muy pequeño
+X-1,DIBENZOTIOFENO,132-65-0,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/2; 50 g,50 g,Mediano
+X-10,4-BROMOTOLUENO,106-38-7,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/3; 100 g,100 g,Mediano
+X-11,ANTRACENO,120-12-7,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,30 g,30 g,Pequeño-medio
+X-12,PARAFINA LIQUIDA,8042-47-5,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,>3/4; 100 mL,100 mL,Mediano
+X-13,"1,2-DIBROMOETANO",106-93-4,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,>1/2; 1 kg,1 kg,Grande
+X-14,"1,4-DIBROMOBENCENO",106-37-6,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/6; 100 g,100 g,Mediano
+X-15,"1-CLORO-2,4-DINITROBENCENO",97-00-7,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,>4/5; 1 kg,1 kg,Grande
+X-16,"1-CLORO-2,3-EPOXIPROPANO",106-89-8,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,>4/5; 250 mL,250 mL,Grande
+X-17,"1,6-DIBROMOHEXANO",629-03-8,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,50 mL,50 mL,Mediano
+X-19,"1,2-DIBROMOTETRACLOROETANO",630-25-1,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/2; 100 g,100 g,Mediano
+X-2,DECAHIDRONAFTALENO,91-17-8,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,>3/4; 1 L,1 L,Muy grande
+X-2,DECAHIDRONAFTALENO,91-17-8,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,33 g,100 g,Mediano
+X-2,DECAHIDRONAFTALENO,91-17-8,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~5/6; 25 mL,25 mL,Pequeño-medio
+X-20,"1,8-DIAZABICICLO[5.4.0]-UNDEC-7-ENO",6674-22-2,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,>4/5; 100 g,100 g,Mediano
+X-20,"1,8-DIAZABICICLO[5.4.0]-UNDEC-7-ENO",6674-22-2,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,>1/3; 100 g,100 g,Mediano
+X-20,"1,8-DIAZABICICLO[5.4.0]-UNDEC-7-ENO",6674-22-2,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,>1/3; 25 g,25 g,Pequeño-medio
+X-21,UNDECANO,1120-21-4,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/4; 100 mL,100 mL,Mediano
+X-22,FENANTRENO,85-01-8,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,5 g,5 g,Pequeño
+X-23,4-BROMOBIFENILO,92-66-0,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,<1/5; 10 g,10 g,Pequeño
+X-24,"1,3,5-TRIBROMOBENCENO",626-39-1,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/2; 25 g,25 g,Mediano
+X-24,"1,3,5-TRIBROMOBENCENO",626-39-1,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,<1/4; 25 g,25 g,Mediano
+X-25,BROMOBENCENO,108-86-1,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~4/5; 100 mL,100 mL,Mediano
+X-26,CLORURO DE 2-ETOXIETENIL,63672-11-7,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,100 mL,100 mL,Mediano
+X-27,4-BROMOBENZOTRIFLORURO,402-43-7,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/3; 25 g,25 g,Mediano
+X-29,3-BROMO-1-PROPENO,106-95-6,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/10; 100 g,100 g,Mediano
+X-3,POLIESTIRENO PM:315200,9003-53-6,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,500 g,500 g,Grande
+X-3,POLIESTIRENO PM:315200,9003-53-6,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,2 g,10 g,Pequeño
+X-30,1-BROMO-4-CLOROBENCENO,106-39-8,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/3; 100 g,100 g,Mediano
+X-31,(TRIMETILSILIL)ACETILENO,1066-54-2,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/2; 25 g,25 g,Mediano
+X-35,TETRACLOROETILENO,127-18-4,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,>4/5; 500 g,500 g,Grande
+X-36,AZUL DE METILENO,61-73-4,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~2/3; 25 g ,25 g,Mediano
+X-36,AZUL DE METILENO,61-73-4,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/2; 25 g,25 g,Mediano
+X-38,MONOCLORURO DE YODO,7790-99-0,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~4/5; 100 g,100 g,Pequeño
+X-39,CLOROBENCENO,108-90-7,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~4/5; 1 L,1 L,Muy grande
+X-4,POLIESTIRENO PM:152100,9003-53-6*,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,700 g,700 g,Grande
+X-41,HEXAFLUOROBENCENO,392-56-3,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/2; 50 g,50 g,Mediano
+X-42,"1-BROMO-3,5-DIFLUOROBENCENO",461-96-1,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/2; 25 g,25 g,Pequeño
+X-43,PIRENO,129-00-0,Halogenados e hidrocarburos,ESTANTE METALICO BAJO LLAVE,,~2/3; 25 g ,25 g,Mediano
+X-44,BROMURO DE 2-NITROBENCILO,3958-60-9,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,15 mL,70 mL,Mediano
+X-44,BROMURO DE 2-NITROBENCILO,3958-60-9,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/3; 5 g,5 g,Pequeño
+X-45,"1,4-DIYODOBENCENO",624-38-4,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/4; 25 g,25 g,Mediano
+X-46,INDIGO CARMIN,860-22-0,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/2; 10 g,10 g,Pequeño
+X-47,"4-BROMO-2,6-DICLOROANILINA",697-88-1,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/5; 25 g,25 g,Pequeño-medio
+X-48,11-BROMO-1-UNDECENO,7766-50-9,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/10; 25 g,25 g,Pequeño-medio
+X-49,FENOL,108-95-2,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,10 g,25 g,Pequeño
+X-50,2-(2'-CLOROETOXI)ETANOL,628-89-7,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/4; 25 g,25 g,Pequeño-medio
+X-51,BUTILCLOROFORMIATO,592-34-7,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/2; 250 mL,250 mL,Medio-grande
+X-52,ETILCLOROFORMIATO,541-41-3,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,100 mL,100 mL,Mediano
+X-52,ETILCLOROFORMIATO,541-41-3,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,0 mL,100 mL,Mediano
+X-52,ETILCLOROFORMIATO,541-41-3,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,0 mL,100 mL,Muy grande
+X-52,ETILCLOROFORMIATO,541-41-3,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,100 mL,100 mL,Mediano
+X-6,BROMURO DE 4-NITROFENETILO,5339-26-4,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/2; 5 g,5 g,Pequeño
+X-7,1-CLORONAFTALENO,90-13-1,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/2; 5 g,5 g,Muy pequeño
+X-8,"1,2,4,5-TETRABROMOBENCENO",636-28-2,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,~1/3; 10 g,10 g,Pequeño-medio
+X-9,TRANS-ESTILBENO,645-49-8,Halogenados e hidrocarburos,ESTANTE MADERA GRANDE,NULL,60 g,60 g,Mediano
+Zn-01,ACETATO DE ZINC,5970-45-6,Compuestos de zinc,ESTANTE MADERA GRANDE,"El frasco 2 es un recipiente reciclado de conservas, el frasco 3 muestra un etiquetado con +97% de pureza y manifiesta que es la sal dihidratada.",40 g,80 g,Mediano
+Zn-01,ACETATO DE ZINC,5970-45-6,Compuestos de zinc,ESTANTE MADERA GRANDE,"El frasco 2 es un recipiente reciclado de conservas, el frasco 3 muestra un etiquetado con +97% de pureza y manifiesta que es la sal dihidratada.",>4/5; 100 g,100 g,Mediano
+Zn-01,ACETATO DE ZINC,5970-45-6,Compuestos de zinc,ESTANTE MADERA GRANDE,"El frasco 2 es un recipiente reciclado de conservas, el frasco 3 muestra un etiquetado con +97% de pureza y manifiesta que es la sal dihidratada.",~1/10; 250 g,250 g,Medio-grande
+Zn-02,OXIDO DE ZINC,1314-13-2,Compuestos de zinc,ESTANTE MADERA GRANDE,NULL,>1/2; 100 g,100 g,Mediano
+Zn-03,CLORURO DE ZINC(II),7646-85-7,Compuestos de zinc,ESTANTE MADERA GRANDE,NULL,~1/3; 500 g,500 g,Grande
+Zn-04,ZINC METALICO,7440-66-6,Compuestos de zinc,ESTANTE MADERA GRANDE,NULL,5 lb,5 lb,Gigante
+Zn-05,ZINC EN PELLETS,7440-66-6*,Compuestos de zinc,ESTANTE MADERA GRANDE,NULL,150 g,150 g,Pequeño
+Zn-05,ZINC EN PELLETS,7440-66-6*,Compuestos de zinc,ESTANTE MADERA GRANDE,NULL,150 g,150 g,Pequeño
+Zn-06,ZINC EN POLVO,7440-66-6**,Compuestos de zinc,ESTANTE MADERA GRANDE,NULL,150 g,150 g,Pequeño-medio
+Zn-07,NITRATO DE ZINC HEXAHIDRATADO,6484-52-2,Compuestos de zinc,ESTANTE MADERA GRANDE,NULL,>=1/3; 500 g,500 g,Muy grande
